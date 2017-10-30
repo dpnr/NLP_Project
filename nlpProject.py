@@ -1,5 +1,6 @@
 import readWriteFiles as rwFiles
 import extractId as e_Id
+import extractWeapon as e_weapon
 
 path = 'texts/'
 filenames = rwFiles.readFromFolder(path)
@@ -16,14 +17,14 @@ for filename in filenames:
     
     ## Do stuff here to extract the arguments and print it out!!!
     
-    fileArguments["id"] = e_Id.extracting('texts/'+filename) ## replace this with some function call to get the right result
+    fileArguments["id"] = e_Id.extracting(path + filename) 
     #we could directly write a print here instead of adding to results
     print "ID: "+ fileArguments["id"]
     
     fileArguments["incident"] = "example" ## replace this with some function call to get the right result
     print "INCIDENT: "+ fileArguments["incident"]
     
-    fileArguments["weapon"] = "example" ## replace this with some function call to get the right result
+    fileArguments["weapon"] =  e_weapon.extracting(path + filename)
     print "WEAPON: "+ fileArguments["weapon"]
     
     fileArguments["perp indiv"] = "example" ## replace this with some function call to get the right result
