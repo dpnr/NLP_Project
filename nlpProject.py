@@ -1,6 +1,8 @@
 import readWriteFiles as rwFiles
+import extractId as e_Id
 
-filenames = rwFiles.readFromFolder('texts/')
+path = 'texts/'
+filenames = rwFiles.readFromFolder(path)
 
 ''' 
     for every file we need to extract the arguments 
@@ -14,7 +16,7 @@ for filename in filenames:
     
     ## Do stuff here to extract the arguments and print it out!!!
     
-    fileArguments["id"] = "example" ## replace this with some function call to get the right result
+    fileArguments["id"] = e_Id.extracting('texts/'+filename) ## replace this with some function call to get the right result
     #we could directly write a print here instead of adding to results
     print "ID: "+ fileArguments["id"]
     
