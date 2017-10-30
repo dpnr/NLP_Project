@@ -3,7 +3,7 @@ import readWriteFiles as rwFiles
 filenames = rwFiles.readFromFolder('texts/')
 
 ''' 
-    for every file we need to extract the arguments which are stired as the keys of a dict
+    for every file we need to extract the arguments 
 
 '''
 
