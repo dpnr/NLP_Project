@@ -27,12 +27,12 @@ for filename in filenames:
     #we could directly write a print here instead of adding to results
     print ("ID: "+ fileArguments["id"])
     
-    fileArguments["incident"] = "example"#e_incident.extracting(path + filename)  ## replace this with some function call to get the right result
+    fileArguments["incident"] = "e"#e_incident.extracting(path + filename)  ## replace this with some function call to get the right result
     print ("INCIDENT: "+ fileArguments["incident"])
     
     fileArguments["weapon"] =  e_weapon.extracting(path + filename)
     weapons[fileArguments["id"]] = ",".join(fileArguments["weapon"])
-    print ("WEAPON: "+ fileArguments["weapon"])
+    print ("WEAPON: "+ ",".join(fileArguments["weapon"]))
     
     fileArguments["perp indiv"] = "example" ## replace this with some function call to get the right result
     print ("PERP INDIV: "+ fileArguments["perp indiv"])
@@ -54,4 +54,4 @@ for filename in filenames:
 weapons_ans = predict.generate('weapon')
 
 
-predictprintAccuracy(weapons,weapons_ans)
+predict.printAccuracy(weapons,weapons_ans)
