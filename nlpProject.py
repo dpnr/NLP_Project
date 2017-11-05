@@ -1,12 +1,10 @@
 import readWriteFiles as rwFiles
 import extractId as e_Id
 import extractWeapon as e_weapon
-<<<<<<< HEAD
 import extractIncident as e_incident
-=======
 import predict
 
->>>>>>> pranavDev
+
 
 path = 'texts/'
 filenames = rwFiles.readFromFolder(path)
