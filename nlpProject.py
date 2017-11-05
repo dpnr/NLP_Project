@@ -1,10 +1,16 @@
 import readWriteFiles as rwFiles
 import extractId as e_Id
 import extractWeapon as e_weapon
+<<<<<<< HEAD
 import extractIncident as e_incident
+=======
+import predict
+
+>>>>>>> pranavDev
 
 path = 'texts/'
 filenames = rwFiles.readFromFolder(path)
+weapons = {}
 
 ''' 
     for every file we need to extract the arguments 
@@ -16,9 +22,10 @@ filenames = rwFiles.readFromFolder(path)
 for filename in filenames:
     fileArguments = {}
     
-    ## Do stuff here to extract the arguments and print it out!!!
+    ## Do stuff here to extract the arguments and #print it out!!!
     
     fileArguments["id"] = e_Id.extracting(path + filename) 
+
     #we could directly write a print here instead of adding to results
     print ("ID: "+ fileArguments["id"])
     
@@ -42,4 +49,10 @@ for filename in filenames:
 
     print ("") ##line space
 
+
     
+
+weapons_ans = predict.generate('weapon')
+
+
+predict.printAccuracy(weapons,weapons_ans)
