@@ -5,7 +5,7 @@ from nltk.tokenize import PunktSentenceTokenizer
 from nltk.tag import StanfordNERTagger
 from nltk.internals import find_jars_within_path
 
-import spacy
+
 def extracting(filename):
     with open(filename) as file:
         input_text = file.read()
