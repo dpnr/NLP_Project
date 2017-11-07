@@ -1,9 +1,13 @@
+
 import readWriteFiles as rwFiles
 import extractId as e_Id
 import extractWeapon as e_weapon
 # import extractIncident as e_incident
 import extractPerpOrg as e_perporg
 import extractPerpIndiv as e_perpindiv
+import extractVictims as e_Victims
+import extractIncident as e_incident
+import eventextract_ML as train_model
 import predict
 
 
@@ -11,6 +15,7 @@ import predict
 path = 'texts/'
 filenames = rwFiles.readFromFolder(path)
 weapons = {}
+victims = {}
 
 ''' 
     for every file we need to extract the arguments 
@@ -24,6 +29,7 @@ for filename in allFiles:
         testFiles.append(filename)
 
 testFiles.sort()
+# text_clf=train_model.model()
 
 
 for filename in testFiles:
@@ -36,12 +42,14 @@ for filename in testFiles:
     #we could directly write a print here instead of adding to results
     print ("ID:\t"+ fileArguments["id"])
     
-    fileArguments["incident"] = "example"#e_incident.extracting(path + filename)  ## replace this with some function call to get the right result
+    # fileArguments["incident"] = e_incident.extracting(path + filename,text_clf)#e_incident.extracting(path + filename)  ## replace this with some function call to get the right result
+    fileArguments["incident"] = "-"
     print ("INCIDENT:\t"+ fileArguments["incident"])
     
     fileArguments["weapon"] =  e_weapon.extracting(path + filename)
     weapons[fileArguments["id"]] = ",".join(fileArguments["weapon"])
     print ("WEAPON:\t"+ "\n\t".join(fileArguments["weapon"]))
+    
     
     fileArguments["perp indiv"] = e_perpindiv.extracting(path + filename) ## replace this with some function call to get the right result
     print ("PERP INDIV:\t"+ fileArguments["perp indiv"])
@@ -52,8 +60,12 @@ for filename in testFiles:
     fileArguments["target"] = "-" ## replace this with some function call to get the right result
     print ("TARGET:\t"+ fileArguments["target"])
 
-    fileArguments["victim"] = "-" ## replace this with some function call to get the right result
-    print ("VICTIM:\t"+ fileArguments["victim"])
+
+    # print ("TARGET: "+ fileArguments["target"])
+
+    fileArguments["victim"] = e_Victims.extracting(path + filename) ## replace this with some function call to get the right result
+    victims[fileArguments["id"]] = ",".join(fileArguments["victim"])
+    print("VICTIM:\t" + "\n\t".join(fileArguments["victim"]))
 
     print ("\n") ##line space
 
