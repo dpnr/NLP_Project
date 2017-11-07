@@ -50,7 +50,7 @@ def extracting(filename):
 
 def giveScore(word,organizations,english_vocab,weight):
     ##only if it is not a general word and length doesn't exceed 4
-    if((word.lower() not in english_vocab) and len(word)<=4 and (word not in english_vocab) and (word not in ['FBI','CID','CBI'])):
+    if((word.lower() not in english_vocab) and len(word)<=4 and (word not in english_vocab) and (word not in ['FBI','CID','CBI','JAN',"FEB","MAR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"])):
         if word in organizations:
             organizations[word] += 1
         else:

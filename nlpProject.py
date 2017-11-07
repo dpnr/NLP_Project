@@ -17,9 +17,16 @@ weapons = {}
 
 '''
 
+allFiles = rwFiles.readFromFolder(path)
+testFiles = []
+for filename in allFiles:
+    if(filename[0:3]=='TST'):
+        testFiles.append(filename)
+
+testFiles.sort()
 
 
-for filename in ['TST2-MUC4-0076']:
+for filename in testFiles:
     fileArguments = {}
     
     ## Do stuff here to extract the arguments and print it out!!!
@@ -27,28 +34,28 @@ for filename in ['TST2-MUC4-0076']:
     fileArguments["id"] = e_Id.extracting(path + filename) 
 
     #we could directly write a print here instead of adding to results
-    print ("ID: "+ fileArguments["id"])
+    print ("ID:\t"+ fileArguments["id"])
     
     fileArguments["incident"] = "example"#e_incident.extracting(path + filename)  ## replace this with some function call to get the right result
-    print ("INCIDENT: "+ fileArguments["incident"])
+    print ("INCIDENT:\t"+ fileArguments["incident"])
     
     fileArguments["weapon"] =  e_weapon.extracting(path + filename)
     weapons[fileArguments["id"]] = ",".join(fileArguments["weapon"])
-    print ("WEAPON: "+ ",".join(fileArguments["weapon"]))
+    print ("WEAPON:\t"+ "\n\t".join(fileArguments["weapon"]))
     
     fileArguments["perp indiv"] = e_perpindiv.extracting(path + filename) ## replace this with some function call to get the right result
-    print ("PERP INDIV: "+ fileArguments["perp indiv"])
+    print ("PERP INDIV:\t"+ fileArguments["perp indiv"])
 
     fileArguments["perp org"] = e_perporg.extracting(path+filename) ## replace this with some function call to get the right result
-    print ("PERP ORG: "+ fileArguments["perp org"])
+    print ("PERP ORG:\t"+ fileArguments["perp org"])
 
-    fileArguments["target"] = "example" ## replace this with some function call to get the right result
-    print ("TARGET: "+ fileArguments["target"])
+    fileArguments["target"] = "-" ## replace this with some function call to get the right result
+    print ("TARGET:\t"+ fileArguments["target"])
 
-    fileArguments["victim"] = "example" ## replace this with some function call to get the right result
-    print ("VICTIM: "+ fileArguments["victim"])
+    fileArguments["victim"] = "-" ## replace this with some function call to get the right result
+    print ("VICTIM:\t"+ fileArguments["victim"])
 
-    print ("") ##line space
+    print ("\n") ##line space
 
 
     
