@@ -34,5 +34,6 @@ def extracting(filename):
             if(" ".join(name) not in nameList and len(name)>1):
                 # print(" ".join(name))
                 nameList.append(" ".join(name))
-
+    if not nameList:
+        nameList.append("-")
     return nameList
