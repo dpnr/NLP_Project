@@ -37,6 +37,7 @@ testData = []
 with open(testFile) as file:
     lines = file.readlines()
     para = []
+    para.append(lines[0])
     for line in lines[1:]: 
         if("DEV-MUC3-" in line or  "TST1-MUC3-" in line or "TST2-MUC4-" in line and first):
             testData.append(" ".join(para))
@@ -54,7 +55,7 @@ for data in testData:
     fileArguments = {}
     
     ## Do stuff here to extract the arguments and print it out!!!
-    with open('temfile.txt',w) as temp:
+    with open('temfile.txt','w') as temp:
         temp.write(data)
         
     fileArguments["id"] = e_Id.extracting('temfile.txt') 
