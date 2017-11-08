@@ -9,6 +9,7 @@ import extractVictims as e_Victims
 import extractIncident as e_incident
 import eventextract_ML as train_model
 import predict
+import sys
 
 
 
@@ -28,17 +29,35 @@ for filename in allFiles:
     if(filename[0:3]=='TST'):
         testFiles.append(filename)
 
+
+first = False
 testFiles.sort()
+testFile = sys.argv[1]
+testData = []
+with open(testFile) as file:
+    lines = file.readlines()
+    para = []
+    for line in lines[1:]: 
+        if("DEV-MUC3-" in line or  "TST1-MUC3-" in line or "TST2-MUC4-" in line and first):
+            testData.append(" ".join(para))
+            para = []
+            para.append(line)
+        else:
+            para.append(line)
+            first= True
+
+
 # text_clf=train_model.model()
 
 
-for filename in testFiles:
+for data in testData:
     fileArguments = {}
     
     ## Do stuff here to extract the arguments and print it out!!!
-    
-    fileArguments["id"] = e_Id.extracting(path + filename) 
-
+    with open('temfile.txt',w) as temp:
+        temp.write(data)
+        
+    fileArguments["id"] = e_Id.extracting('temfile.txt') 
     #we could directly write a print here instead of adding to results
     print ("ID:\t"+ fileArguments["id"])
     
