@@ -1,5 +1,3 @@
-# !/usr/bin/python
-# -*- coding: utf-8 -*-
 import nltk
 # import spacy
 # nlp = spacy.load('en')

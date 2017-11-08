@@ -1,3 +1,4 @@
+
 import readWriteFiles as rwFiles
 import extractId as e_Id
 import extractWeapon as e_weapon
@@ -8,7 +9,6 @@ import extractVictims as e_Victims
 import extractIncident as e_incident
 import eventextract_ML as train_model
 import predict
-import sys
 
 
 
@@ -19,6 +19,7 @@ victims = {}
 
 ''' 
     for every file we need to extract the arguments 
+
 '''
 
 allFiles = rwFiles.readFromFolder(path)
@@ -27,52 +28,33 @@ for filename in allFiles:
     if(filename[0:3]=='TST'):
         testFiles.append(filename)
 
-
-first = False
 testFiles.sort()
-testFile = sys.argv[1]
-testData = []
-with open(testFile) as file:
-    lines = file.readlines()
-    para = []
-    para.append(lines[0])
-    for line in lines[1:]: 
-        if("DEV-MUC3-" in line or  "TST1-MUC3-" in line or "TST2-MUC4-" in line and first):
-            testData.append(" ".join(para))
-            para = []
-            para.append(line)
-        else:
-            para.append(line)
-            first= True
-
-
 text_clf=train_model.model()
 
 
-for data in testData:
+for filename in testFiles:
     fileArguments = {}
     
     ## Do stuff here to extract the arguments and print it out!!!
-    with open('temfile.txt','w') as temp:
-        temp.write(data)
-        
-    fileArguments["id"] = e_Id.extracting('temfile.txt') 
+    
+    fileArguments["id"] = e_Id.extracting(path + filename) 
+
     #we could directly write a print here instead of adding to results
     print ("ID:\t"+ fileArguments["id"])
     
-    fileArguments["incident"] = e_incident.extracting('temfile.txt',text_clf)#e_incident.extracting(path + filename)  ## replace this with some function call to get the right result
+    fileArguments["incident"] = e_incident.extracting(path + filename,text_clf)#e_incident.extracting(path + filename)
     #fileArguments["incident"] = "-"
     print ("INCIDENT:\t"+ fileArguments["incident"])
     
-    fileArguments["weapon"] =  e_weapon.extracting('temfile.txt')
+    fileArguments["weapon"] =  e_weapon.extracting(path + filename)
     weapons[fileArguments["id"]] = ",".join(fileArguments["weapon"])
     print ("WEAPON:\t"+ "\n\t".join(fileArguments["weapon"]))
     
     
-    fileArguments["perp indiv"] = e_perpindiv.extracting('temfile.txt') ## replace this with some function call to get the right result
+    fileArguments["perp indiv"] = e_perpindiv.extracting(path + filename) ## replace this with some function call to get the right result
     print ("PERP INDIV:\t"+ fileArguments["perp indiv"])
 
-    fileArguments["perp org"] = e_perporg.extracting('temfile.txt') ## replace this with some function call to get the right result
+    fileArguments["perp org"] = e_perporg.extracting(path+filename)
     print ("PERP ORG:\t"+ fileArguments["perp org"])
 
     fileArguments["target"] = "-" ## replace this with some function call to get the right result
@@ -81,7 +63,7 @@ for data in testData:
 
     # print ("TARGET: "+ fileArguments["target"])
 
-    fileArguments["victim"] = e_Victims.extracting('temfile.txt') ## replace this with some function call to get the right result
+    fileArguments["victim"] = e_Victims.extracting(path + filename) ## replace this with some function call to get the right result
     victims[fileArguments["id"]] = ",".join(fileArguments["victim"])
     print("VICTIM:\t" + "\n\t".join(fileArguments["victim"]))
 
