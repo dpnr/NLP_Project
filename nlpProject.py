@@ -47,7 +47,7 @@ with open(testFile) as file:
             para.append(line)
             first= True
 
-
+# print("\n".join(testData))
 # text_clf=train_model.model()
 
 
@@ -57,7 +57,7 @@ for data in testData:
     ## Do stuff here to extract the arguments and print it out!!!
     with open('temfile.txt','w') as temp:
         temp.write(data)
-        
+    
     fileArguments["id"] = e_Id.extracting('temfile.txt') 
     #we could directly write a print here instead of adding to results
     print ("ID:\t"+ fileArguments["id"])
@@ -65,16 +65,16 @@ for data in testData:
     # fileArguments["incident"] = e_incident.extracting(path + filename,text_clf)#e_incident.extracting(path + filename)  ## replace this with some function call to get the right result
     fileArguments["incident"] = "-"
     print ("INCIDENT:\t"+ fileArguments["incident"])
-    
-    fileArguments["weapon"] =  e_weapon.extracting(path + filename)
+
+    fileArguments["weapon"] =  e_weapon.extracting('temfile.txt')
     weapons[fileArguments["id"]] = ",".join(fileArguments["weapon"])
     print ("WEAPON:\t"+ "\n\t".join(fileArguments["weapon"]))
     
     
-    fileArguments["perp indiv"] = e_perpindiv.extracting(path + filename) ## replace this with some function call to get the right result
+    fileArguments["perp indiv"] = e_perpindiv.extracting('temfile.txt') ## replace this with some function call to get the right result
     print ("PERP INDIV:\t"+ fileArguments["perp indiv"])
 
-    fileArguments["perp org"] = e_perporg.extracting(path+filename) ## replace this with some function call to get the right result
+    fileArguments["perp org"] = e_perporg.extracting('temfile.txt') ## replace this with some function call to get the right result
     print ("PERP ORG:\t"+ fileArguments["perp org"])
 
     fileArguments["target"] = "-" ## replace this with some function call to get the right result
@@ -83,7 +83,7 @@ for data in testData:
 
     # print ("TARGET: "+ fileArguments["target"])
 
-    fileArguments["victim"] = e_Victims.extracting(path + filename) ## replace this with some function call to get the right result
+    fileArguments["victim"] = e_Victims.extracting('temfile.txt') ## replace this with some function call to get the right result
     victims[fileArguments["id"]] = ",".join(fileArguments["victim"])
     print("VICTIM:\t" + "\n\t".join(fileArguments["victim"]))
 
