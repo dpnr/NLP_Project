@@ -3,6 +3,7 @@ import readWriteFiles as rwFiles
 import extractId as e_Id
 import extractWeapon as e_weapon
 import extractVictims as e_Victims
+import extractTarget as e_Target
 import extractIncident as e_incident
 import eventextract_ML as train_model
 import predict
@@ -43,7 +44,7 @@ for filename in filenames:
     fileArguments["perp org"] = "example" ## replace this with some function call to get the right result
     print ("PERP ORG: "+ fileArguments["perp org"])
 
-    # fileArguments["target"] = e_Target.extracting(path + filename) ## replace this with some function call to get the right result
+    fileArguments["target"] = e_Target.extracting(path + filename) ## replace this with some function call to get the right result
     # victims[fileArguments["id"]] = ",".join(fileArguments["weapon"])
     # print("WEAPON:\t" + "\n\t".join(fileArguments["weapon"]))
 
