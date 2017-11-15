@@ -32,7 +32,7 @@ def printAccuracy(predicted,actual):
             prediction["correct"] += 1
         else:
             prediction["wrong"] += 1
-            print >>debug, "\n##### for ID  " + key + "\n"+ "ACTUAL: " + actual[key] + "\n" + "PREDICTED: " + predicted[key] + "\n"
+            debug.write("\n##### for ID  " + key + "\n"+ "ACTUAL: " + actual[key] + "\n" + "PREDICTED: " + predicted[key] + "\n")
     
     print ("accuracy is " + str(prediction["correct"]*100.0/ (len(predicted)) ))
 

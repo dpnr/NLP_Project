@@ -2,8 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="656e5cb8-75dd-4430-b0ed-642d4266124c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NLP_project.tar.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/checkOutput.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deprecate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extractPerpIndiv.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extractPerpOrg.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/finalOutput.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/goldOutput.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/infoextract" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nlpProject11.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nltk_download.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythoncore.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleOutput.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleTest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temfile.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testStandford.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trueCaser.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/texts/~$V-MUC3-0062" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/debug.log" afterPath="$PROJECT_DIR$/debug.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eventextract_ML.py" afterPath="$PROJECT_DIR$/eventextract_ML.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/extractIncident.py" afterPath="$PROJECT_DIR$/extractIncident.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/extractVictims.py" afterPath="$PROJECT_DIR$/extractVictims.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nlpProject.py" afterPath="$PROJECT_DIR$/nlpProject.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/predict.py" afterPath="$PROJECT_DIR$/predict.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readWriteFiles.py" afterPath="$PROJECT_DIR$/readWriteFiles.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,23 +49,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="nlpProject.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="nlpProject.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/nlpProject.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-              <folding>
-                <element signature="e#1#33#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="561">
+              <caret line="95" column="0" lean-forward="true" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="extractTarget.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="extractTarget.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/extractTarget.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="38" column="48" lean-forward="false" selection-start-line="38" selection-start-column="48" selection-end-line="38" selection-end-column="48" />
+            <state relative-caret-position="646">
+              <caret line="38" column="34" lean-forward="false" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
               <folding>
                 <element signature="e#43#54#0" expanded="true" />
               </folding>
@@ -64,7 +86,7 @@
       <file leaf-file-name="extractVictims.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/extractVictims.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="340">
               <caret line="23" column="42" lean-forward="false" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
               <folding>
                 <element signature="e#43#54#0" expanded="true" />
@@ -99,8 +121,8 @@
         <option value="$PROJECT_DIR$/extractIncident.py" />
         <option value="$PROJECT_DIR$/eventextract_ML.py" />
         <option value="$PROJECT_DIR$/extractVictims.py" />
-        <option value="$PROJECT_DIR$/nlpProject.py" />
         <option value="$PROJECT_DIR$/extractTarget.py" />
+        <option value="$PROJECT_DIR$/nlpProject.py" />
       </list>
     </option>
   </component>
@@ -113,7 +135,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1378" />
+    <option name="width" value="1370" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectView">
@@ -131,7 +153,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -156,6 +177,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -441,10 +463,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="1" />
+    <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11608498" sideWeight="0.49459043" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11755725" sideWeight="0.49459043" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -483,16 +505,6 @@
           <line>64</line>
           <option name="timeStamp" value="78" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/extractTarget.py</url>
-          <line>33</line>
-          <option name="timeStamp" value="94" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/extractTarget.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="95" />
-        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -517,9 +529,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="e#1#33#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -821,9 +831,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="433">
           <caret line="48" column="19" lean-forward="false" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
-          <folding>
-            <element signature="e#43#54#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -853,8 +861,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/extractVictims.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="340">
           <caret line="23" column="42" lean-forward="false" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+          <folding>
+            <element signature="e#43#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extractTarget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="34" lean-forward="false" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
           <folding>
             <element signature="e#43#54#0" expanded="true" />
           </folding>
@@ -863,21 +881,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nlpProject.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding>
-            <element signature="e#1#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extractTarget.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="38" column="48" lean-forward="false" selection-start-line="38" selection-start-column="48" selection-end-line="38" selection-end-column="48" />
-          <folding>
-            <element signature="e#43#54#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="561">
+          <caret line="95" column="0" lean-forward="true" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
