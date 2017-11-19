@@ -34,6 +34,7 @@ testFile = sys.argv[1]
 testData = []
 with open(testFile) as file:
     lines = file.readlines()
+    # print lines
     para = []
     para.append(lines[0])
     for line in lines[1:]: 
@@ -44,9 +45,12 @@ with open(testFile) as file:
         else:
             para.append(line)
             first= True
-
+    #for the last para we need to append it to the data
+    testData.append(" ".join(para))
 
 text_clf=train_model.model()
+
+# print testData
 
 
 for data in testData:
@@ -72,7 +76,7 @@ for data in testData:
     fileArguments["perp indiv"] = e_perpindiv.extracting('temfile.txt') ## replace this with some function call to get the right result
     print ("PERP INDIV:\t"+ fileArguments["perp indiv"])
 
-    fileArguments["perp org"] = e_perporg.extracting('temfile.txt') ## replace this with some function call to get the right result
+    fileArguments["perp org"] = " - " #e_perporg.extracting('temfile.txt') ## replace this with some function call to get the right result
     print ("PERP ORG:\t"+ fileArguments["perp org"])
 
     fileArguments["target"] = "-" ## replace this with some function call to get the right result
