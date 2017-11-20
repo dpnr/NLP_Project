@@ -8,4 +8,4 @@ def notorgs():
     return ['FBI','CID','CBI','JAN',"FEB","MAR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"]
 
 def orgs():
-    return ['FMLN','MRTA','ELN']
+    return ['FMLN','MRTA','ELN','OWLS','FPMR','PCCH','FARC']

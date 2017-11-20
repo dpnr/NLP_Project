@@ -69,16 +69,16 @@ def getTheWords(corpus):
                                 chunk = []
                                 break
                             
-                        # if(subtree[i][0] == 'forces'.upper()):
-                        #     if(subtree[i-1][0] == 'armed'.upper()):
+                        if(subtree[i][0] == 'path'.upper()):
+                            if(subtree[i-1][0] == 'shining'.upper()):
                                 
-                        #         chunk = []
-                        #         tokens = [] 
-                        #         chunk.append(subtree[i-1])
-                        #         chunk.append(subtree[i])
-                        #         tokens.append(subtree[i-1][0])
-                        #         tokens.append(subtree[i][0])
-                        #         break
+                                chunk = []
+                                tokens = [] 
+                                chunk.append(subtree[i-1])
+                                chunk.append(subtree[i])
+                                tokens.append(subtree[i-1][0])
+                                tokens.append(subtree[i][0])
+                                break
                     
 
                     
