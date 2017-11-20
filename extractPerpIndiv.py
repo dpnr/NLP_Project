@@ -72,7 +72,7 @@ def extracting(filename):
                         chunk.append(subtree[i])
                         tokens.append(subtree[i][0])
                         
-                        if(subtree[i][0] in ['text','u.s.','officials','official','authorities','military','states','is','troops','police']):
+                        if(subtree[i][0] in ['text','u.s.','officials','official','authorities','authority','military','states','is','troops','police','leader','friends','persons']):
 
                             chunk = []
                             break
