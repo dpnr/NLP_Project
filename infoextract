@@ -13,13 +13,6 @@ pip install -U scikit-learn
 pip install numpy
 
 
-wget https://nlp.stanford.edu/software/stanford-parser-full-2017-06-09.zip
-wget https://nlp.stanford.edu/software/stanford-ner-2017-06-09.zip
-wget https://nlp.stanford.edu/software/stanford-postagger-full-2017-06-09.zip
-
-unzip stanford-postagger-full-2017-06-09.zip
-unzip stanford-ner-2017-06-09.zip
-unzip stanford-parser-full-2017-06-09.zip
 
 export CLASSPATH=/home/khatwani/Desktop/NLP_Project/stanford-ner-2017-06-09/stanford-ner.jar:/home/khatwani/Desktop/NLP_Project/stanford-parser-full-2017-06-09/stanford-parser.jar:/home/khatwani/Desktop/NLP_Project/stanford-postagger-2017-06-09/stanford-postagger.jar
 
