@@ -68,12 +68,14 @@ for data in testData:
     #fileArguments["incident"] = "-"
     F.write ("INCIDENT:\t"+ fileArguments["incident"]+ "\n")
     
-    fileArguments["weapon"] =  e_weapon.extracting('temfile.txt')
-    weapons[fileArguments["id"]] = ",".join(fileArguments["weapon"])
+    # fileArguments["weapon"] =  e_weapon.extracting('temfile.txt')
+    # weapons[fileArguments["id"]] = ",".join(fileArguments["weapon"])
+    fileArguments["weapon"] = "-"
     F.write ("WEAPON:\t"+ "\n\t".join(fileArguments["weapon"])+ "\n")
     
     
     # fileArguments["perp indiv"] = e_perpindiv.extracting('temfile.txt') ## replace this with some function call to get the right result
+    fileArguments["perp indiv"] = "-"
     F.write("PERP INDIV:\t"+ fileArguments["perp indiv"]+ "\n")
 
     # fileArguments["perp org"] = e_perporg.extracting('temfile.txt') ## replace this with some function call to get the right result
