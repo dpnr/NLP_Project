@@ -15,11 +15,12 @@ def extracting(filename):
     stanford_ner_path = 'F:\Stanford_data\stanford-ner-2015-12-09\stanford-ner.jar'
     #
     #     # Creating Tagger Object
-    # st = StanfordNERTagger(stanford_classifier, stanford_ner_path, encoding='utf-8')
-    st = StanfordNERTagger('english.all.3class.distsim.crf.ser.gz')
-    stanford_dir = st._stanford_jar.rpartition('/')[0]
+    st = StanfordNERTagger(stanford_classifier, stanford_ner_path, encoding='utf-8')
+    # st = StanfordNERTagger('english.all.3class.distsim.crf.ser.gz')
+    # stanford_dir = st._stanford_jar[0].rpartition('/')[0]
+    stanford_dir = st._stanford_jar[0].rpartition("\\")[0]
     stanford_jars = find_jars_within_path(stanford_dir)
-    st._stanford_jar = ':'.join(stanford_jars)
+    # st._stanford_jar = ':'.join(stanford_jars)
 
     tokenized_text = nltk.word_tokenize(input_text)
     classified_text = st.tag(tokenized_text)

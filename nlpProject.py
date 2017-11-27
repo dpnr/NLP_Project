@@ -17,6 +17,7 @@ path = 'texts/'
 filenames = rwFiles.readFromFolder(path)
 weapons = {}
 victims = {}
+targets={}
 
 ''' 
     for every file we need to extract the arguments 
@@ -46,7 +47,9 @@ with open(testFile) as file:
             para.append(line)
             first= True
 
-
+    #for the last para we need to append it to the data
+testData.append(" ".join(para))
+F = open('testR.txt','w')
 text_clf=train_model.model()
 
 
@@ -59,39 +62,46 @@ for data in testData:
         
     fileArguments["id"] = e_Id.extracting('temfile.txt') 
     #we could directly write a print here instead of adding to results
-    print ("ID:\t"+ fileArguments["id"])
-    
+    # print ("ID:\t"+ fileArguments["id"])
+    F.write("ID:\t"+ fileArguments["id"] + "\n")
     fileArguments["incident"] = e_incident.extracting('temfile.txt',text_clf)#e_incident.extracting(path + filename)  ## replace this with some function call to get the right result
     #fileArguments["incident"] = "-"
-    print ("INCIDENT:\t"+ fileArguments["incident"])
+    F.write ("INCIDENT:\t"+ fileArguments["incident"]+ "\n")
     
     fileArguments["weapon"] =  e_weapon.extracting('temfile.txt')
     weapons[fileArguments["id"]] = ",".join(fileArguments["weapon"])
-    print ("WEAPON:\t"+ "\n\t".join(fileArguments["weapon"]))
+    F.write ("WEAPON:\t"+ "\n\t".join(fileArguments["weapon"])+ "\n")
     
     
-    fileArguments["perp indiv"] = e_perpindiv.extracting('temfile.txt') ## replace this with some function call to get the right result
-    print ("PERP INDIV:\t"+ fileArguments["perp indiv"])
+    # fileArguments["perp indiv"] = e_perpindiv.extracting('temfile.txt') ## replace this with some function call to get the right result
+    F.write("PERP INDIV:\t"+ fileArguments["perp indiv"]+ "\n")
 
-    fileArguments["perp org"] = e_perporg.extracting('temfile.txt') ## replace this with some function call to get the right result
-    print ("PERP ORG:\t"+ fileArguments["perp org"])
+    # fileArguments["perp org"] = e_perporg.extracting('temfile.txt') ## replace this with some function call to get the right result
+    fileArguments["perp org"] = "-"
+    F.write("PERP ORG:\t"+ fileArguments["perp org"]+ "\n")
 
-    # fileArguments["target"] = "-" ## replace this with some function call to get the right result
-    print ("TARGET:\t"+ fileArguments["target"])
+    # fileArguments["target"] = e_Target.extracting('temfile.txt') ## replace this with some function call to get the right result
+    # targets[fileArguments["id"]] = ",".join(fileArguments["target"])
+    fileArguments["target"] = "-"
+    F.write("TARGET:\t"+ "\n\t".join(fileArguments["target"])+ "\n")
+    # print("TARGET:\t" + "\n\t".join(fileArguments["target"]) + "\n")
 
 
-    fileArguments["target"] = e_Target.extracting(path + filename) ## replace this with some function call to get the right result
-    print ("TARGET:\t"+ fileArguments["target"])
+    # fileArguments["target"] = e_Target.extracting(path + filename) ## replace this with some function call to get the right result
+    # print ("TARGET:\t"+ fileArguments["target"])
     # victims[fileArguments["id"]] = ",".join(fileArguments["weapon"])
     # print("WEAPON:\t" + "\n\t".join(fileArguments["weapon"]))
 
     # print ("TARGET: "+ fileArguments["target"])
 
-    fileArguments["victim"] = e_Victims.extracting('temfile.txt') ## replace this with some function call to get the right result
-    victims[fileArguments["id"]] = ",".join(fileArguments["victim"])
-    print("VICTIM:\t" + "\n\t".join(fileArguments["victim"]))
+    # fileArguments["victim"] = e_Victims.extracting('temfile.txt') ## replace this with some function call to get the right result
+    # victims[fileArguments["id"]] = ",".join(fileArguments["victim"])
+    fileArguments["victim"] = "-"
+    F.write("VICTIM:\t" + "\n\t".join(fileArguments["victim"])+ "\n")
 
-    print ("\n") ##line space
+    F.write ("\n") ##line space
+
+F.close()
 
 
     
