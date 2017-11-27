@@ -11,12 +11,12 @@ def extracting(filename):
         input_text = file.read()
 
     # chunkGram = r"""Chunk: {<CD>*<RB.?>*<VB.?>*<JJ>+<NNP>*<NNP|NN|NNS|NNPS>+<VBZ>*}"""
-    stanford_classifier = 'F:\Stanford_data\stanford-ner-2015-12-09\classifiers\english.all.3class.distsim.crf.ser.gz'
-    stanford_ner_path = 'F:\Stanford_data\stanford-ner-2015-12-09\stanford-ner.jar'
+    # stanford_classifier = 'F:\Stanford_data\stanford-ner-2015-12-09\classifiers\english.all.3class.distsim.crf.ser.gz'
+    # stanford_ner_path = 'F:\Stanford_data\stanford-ner-2015-12-09\stanford-ner.jar'
     #
     #     # Creating Tagger Object
-    st = StanfordNERTagger(stanford_classifier, stanford_ner_path, encoding='utf-8')
-    # st = StanfordNERTagger('english.all.3class.distsim.crf.ser.gz')
+    # st = StanfordNERTagger(stanford_classifier, stanford_ner_path, encoding='utf-8')
+    st = StanfordNERTagger('english.all.3class.distsim.crf.ser.gz')
     # stanford_dir = st._stanford_jar[0].rpartition('/')[0]
     stanford_dir = st._stanford_jar[0].rpartition("\\")[0]
     stanford_jars = find_jars_within_path(stanford_dir)

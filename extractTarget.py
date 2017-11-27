@@ -20,15 +20,15 @@ def extracting(filename):
     except:
         pass
     nlp = spacy.load('en')
-    doc = nlp(corpus)
+    doc = nlp(corpus.decode('utf8'))
     custom_sent_tokenizer = PunktSentenceTokenizer(corpus)
 
     tokenized = custom_sent_tokenizer.tokenize(corpus)
 
     # chunkGram = r"""Chunk: {<CD>*<RB.?>*<VB.?>*<JJ>+<NNP>*<NNP|NN|NNS|NNPS>+<VBZ>*}"""
-    stanford_classifier = 'F:\Stanford_data\stanford-ner-2015-12-09\classifiers\english.all.3class.distsim.crf.ser.gz'
-    stanford_ner_path = 'F:\Stanford_data\stanford-ner-2015-12-09\stanford-ner.jar'
-    st = StanfordNERTagger(stanford_classifier, stanford_ner_path, encoding='utf-8')
+    # stanford_classifier = 'F:\Stanford_data\stanford-ner-2015-12-09\classifiers\english.all.3class.distsim.crf.ser.gz'
+    # stanford_ner_path = 'F:\Stanford_data\stanford-ner-2015-12-09\stanford-ner.jar'
+    # st = StanfordNERTagger(stanford_classifier, stanford_ner_path, encoding='utf-8')
     ps = PorterStemmer()
     # w1_1 = wordnet.synset('attack.n.01')
     # w1_2 = wordnet.synset('damage.n.01')

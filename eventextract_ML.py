@@ -64,7 +64,7 @@ def model():
     text_clf = Pipeline([
                         ('vect', CountVectorizer(stop_words='english')),
                          ('tfidf', TfidfTransformer()),
-                            
+
                           ('clf', SGDClassifier(loss='hinge', penalty="l1",
                                                alpha=1e-3, random_state=42,
                                              max_iter=20, tol=None, shuffle=True ))
