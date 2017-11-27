@@ -9,3 +9,6 @@ def notorgs():
 
 def orgs():
     return ['FMLN','MRTA','ELN','OWLS','FPMR','PCCH','FARC']
+
+def notPerpIndivs():
+    return ['text','u.s.','officials','official','authorities','authority','military','states','is','troops','police','leader','friends','persons','citizens','child','leaders','victims','survivor','experts']
