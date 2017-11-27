@@ -85,7 +85,7 @@ for data in testData:
 
     # print ("TARGET: "+ fileArguments["target"])
 
-    fileArguments["victim"] = "-" #e_Victims.extracting('temfile.txt') ## replace this with some function call to get the right result
+    fileArguments["victim"] = e_Victims.extracting('temfile.txt') ## replace this with some function call to get the right result
     victims[fileArguments["id"]] = ",".join(fileArguments["victim"])
     print("VICTIM:\t" + "\n\t".join(fileArguments["victim"]))
 
