@@ -51,7 +51,7 @@ for filename in testFiles:
     print ("WEAPON:\t"+ "\n\t".join(fileArguments["weapon"]))
     
     
-    fileArguments["perp indiv"] = e_perpindiv.extracting(path + filename) ## replace this with some function call to get the right result
+    fileArguments["perp indiv"] = '-'#e_perpindiv.extracting(path + filename) ## replace this with some function call to get the right result
     print ("PERP INDIV:\t"+ fileArguments["perp indiv"])
 
     fileArguments["perp org"] = e_perporg.extracting(path+filename) ## replace this with some function call to get the right result
@@ -63,7 +63,7 @@ for filename in testFiles:
 
     # print ("TARGET: "+ fileArguments["target"])
 
-    fileArguments["victim"] = e_Victims.extracting(path + filename) ## replace this with some function call to get the right result
+    fileArguments["victim"] = "-" #e_Victims.extracting(path + filename) ## replace this with some function call to get the right result
     victims[fileArguments["id"]] = ",".join(fileArguments["victim"])
     print("VICTIM:\t" + "\n\t".join(fileArguments["victim"]))
 
