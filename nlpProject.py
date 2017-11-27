@@ -69,7 +69,7 @@ for data in testData:
     print ("WEAPON:\t"+ "\n\t".join(fileArguments["weapon"]))
     
     
-    fileArguments["perp indiv"] = e_perpindiv.extracting('temfile.txt') ## replace this with some function call to get the right result
+    fileArguments["perp indiv"] = "-"#e_perpindiv.extracting('temfile.txt') ## replace this with some function call to get the right result
     print ("PERP INDIV:\t"+ fileArguments["perp indiv"])
 
     fileArguments["perp org"] = e_perporg.extracting('temfile.txt') ## replace this with some function call to get the right result
@@ -81,7 +81,7 @@ for data in testData:
 
     # print ("TARGET: "+ fileArguments["target"])
 
-    fileArguments["victim"] = e_Victims.extracting('temfile.txt') ## replace this with some function call to get the right result
+    fileArguments["victim"] = "-" #e_Victims.extracting('temfile.txt') ## replace this with some function call to get the right result
     victims[fileArguments["id"]] = ",".join(fileArguments["victim"])
     print("VICTIM:\t" + "\n\t".join(fileArguments["victim"]))
 
