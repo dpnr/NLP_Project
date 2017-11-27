@@ -6,7 +6,7 @@ from nltk.tag import StanfordNERTagger
 from nltk.internals import find_jars_within_path
 from nltk.tag import StanfordNERTagger
 from nltk.tokenize import word_tokenize
-import spacy
+# import spacy
 
 #
 # def extracting(filename):

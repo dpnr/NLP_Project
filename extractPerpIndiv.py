@@ -8,6 +8,7 @@ from nltk.tokenize import PunktSentenceTokenizer
 from nltk.tag import StanfordNERTagger
 from nltk.internals import find_jars_within_path
 from nltk.stem import PorterStemmer
+import custom_wordnet
 
 
 
@@ -57,6 +58,8 @@ def extracting(filename):
                 return "GUERRILLAS"
             elif("terrorists" in words):
                 return "TERRORISTS"
+            elif("murderers" in words):
+                return "TERRORISTS"
 
             chunkGram = r"""Chunk: {<RB.?>*<CD|JJ|RB.?|VBN.?|NNS>+<RB.?|JJ|VBN.?>*<NN>*<NNP>*<NNP|NN|NNS|NNPS>+<VBZ>*}"""
             
@@ -72,7 +75,7 @@ def extracting(filename):
                         chunk.append(subtree[i])
                         tokens.append(subtree[i][0])
                         
-                        if(subtree[i][0] in ['text','u.s.','officials','official','authorities','military','states','is','troops','police']):
+                        if(subtree[i][0] in custom_wordnet.notPerpIndivs()):
 
                             chunk = []
                             break
@@ -100,7 +103,7 @@ def extracting(filename):
                                 break
 
                     
-                    if(len(chunk)>1 and len(chunk) <=4):
+                    if(len(chunk)>=1 and len(chunk) <=4):
                         
                         data = " ".join(tokens)
                         return data.upper()
