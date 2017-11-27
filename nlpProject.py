@@ -6,6 +6,7 @@ import extractPerpOrg_test as e_perporg
 import extractPerpIndiv as e_perpindiv
 import extractVictims as e_Victims
 import extractIncident as e_incident
+import extractTarget as e_Target
 import eventextract_ML as train_model
 import predict
 import sys
