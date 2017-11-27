@@ -3,7 +3,9 @@ INCIDENT:	ATTACK
 WEAPON:	BOMBS
 PERP INDIV:	VIDES CASANOVA
 PERP ORG:	FMLN
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	RAFAEL BUSTILLO
 	ARNULFO ROMERO
 	ALFREDO CRISTIANI
@@ -15,7 +17,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	GUERRILLAS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	RUBEN ZAMORA
 
 
@@ -24,7 +28,9 @@ INCIDENT:	KIDNAPPING
 WEAPON:	-
 PERP INDIV:	HEAVILY ARMED MEN
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	HECTOR OQUELI COLINDRES
 	MAURICIO SANDOVAL
 
@@ -34,7 +40,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	SIGIFREDO OCHOA PEREZ
 	ALFREDO CRISTIANI
 
@@ -44,7 +52,9 @@ INCIDENT:	KIDNAPPING
 WEAPON:	-
 PERP INDIV:	ACTIVE MEMBER
 PERP ORG:	SALVADORAN PARAMILITARY GROUPS
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	HECTOR OQUELI
 	GILDA FLORES
 	MARIO SOLORZANO
@@ -55,7 +65,9 @@ INCIDENT:	ATTACK
 WEAPON:	EXPLOSIVES
 PERP INDIV:	GUERRILLAS
 PERP ORG:	FMLN
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -64,7 +76,9 @@ INCIDENT:	BOMBING
 WEAPON:	BOMB
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -73,7 +87,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	TERRORISTS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	ROBERTO GARCIAL
 	GARCIA ALVARADO
 	ROBERTO GIRON FLORES
@@ -89,7 +105,9 @@ INCIDENT:	KIDNAPPING
 WEAPON:	-
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	MICHAEL REYFF
 	MR ECHEVARRIA
 
@@ -99,7 +117,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	10 UNION MEMBERS
 PERP ORG:	FMLN
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -108,7 +128,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	ALLEGED MEMBERS
 PERP ORG:	FARC
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	JOSE MANUEL JIMENEZ RIVERA
 	PEDRO RAFAEL JIMENEZ CORTEZ
 	JOSE ISAAC FORERO LINARES
@@ -120,7 +142,9 @@ INCIDENT:	ATTACK
 WEAPON:	MEDIUM-SIZED BOMBS
 PERP INDIV:	SEVERAL MEMBERS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	GUILLERMO TORRE ALDAY
 	LUIS ROSSMAN
 	RAMIRO PUYOL
@@ -135,7 +159,9 @@ WEAPON:	EXPLOSIVE
 	BOMBS
 PERP INDIV:	SOVIET NEWSMAN
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	HECTOR GRAMEJO
 	ALFONSO CABRERA
 	VINICIO CEREZO AREVALO
@@ -153,7 +179,9 @@ INCIDENT:	BOMBING
 WEAPON:	MORTAR
 PERP INDIV:	URBAN GUERILLAS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	JOSE NAPOLEON DUARTE
 
 
@@ -162,7 +190,9 @@ INCIDENT:	ATTACK
 WEAPON:	BOMBS
 PERP INDIV:	RED CROSS PERSONNEL
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -171,7 +201,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	VIDES CASANOVA
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	ROBERTO NAVAS
 	LUIS GALDAMEZ
 	ROBERTO GARCIA
@@ -185,7 +217,9 @@ INCIDENT:	BOMBING
 WEAPON:	BOMB
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -194,7 +228,9 @@ INCIDENT:	ATTACK
 WEAPON:	FIREARMS
 PERP INDIV:	SOCIAL CHRISTIANS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	LEON FEBRES CORDERO
 	FEBRES CORDERO
 
@@ -204,7 +240,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	MARIO MARQUEZ
 	ROBERTO GARCIA ALVARADO
 	FRANCISCO GUERRERO
@@ -215,7 +253,9 @@ INCIDENT:	BOMBING
 WEAPON:	BOMBS
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -224,7 +264,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	-
 PERP ORG:	SHINING PATH
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	EDUARDO PEREZ BELTRAN
 	PEREZ BELTRAN
 
@@ -234,7 +276,9 @@ INCIDENT:	ATTACK
 WEAPON:	CAR-BOMB
 PERP INDIV:	FOUR PEDESTRIANS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	MIGUEL ALFREDO MAZA MARQUEZ
 	ALFONSO GOMEZ
 	LUIS JAVIER WULMEN CAMARGO
@@ -246,7 +290,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	TERRORISTS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	MARIO MOLINA
 
 
@@ -255,7 +301,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	URBAN GUERRILLAS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	OSCAR ARIAS
 	LUIS GUILLERMO SOLIS
 
@@ -265,7 +313,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	URBAN GUERRILLAS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	JOSE ANTONIO RODRIGUEZ PORTH
 	EUGENIO CASTRO
 	ALFREDO CRISTIANI
@@ -276,7 +326,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	-
 PERP ORG:	FMLN
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	EDUARDO COLINDRES
 	NELSON LOPEZ
 	ANTONIO RODRIGUEZ PORTH
@@ -288,7 +340,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	ANTONIO RODRIGUEZ
 	BAYARDO ARCE
 	RODRIGUEZ PORTH
@@ -300,7 +354,9 @@ INCIDENT:	BOMBING
 WEAPON:	BOMB
 PERP INDIV:	ONE PERSON
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -309,7 +365,9 @@ INCIDENT:	ATTACK
 WEAPON:	BOMB
 PERP INDIV:	-
 PERP ORG:	FMLN
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	MAURICIO GUZMAN AGUILAR
 	ALFREDO CRISTIANI
 
@@ -319,7 +377,9 @@ INCIDENT:	ATTACK
 WEAPON:	KG DYNAMITE
 PERP INDIV:	TWO MEN
 PERP ORG:	ELN
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -328,7 +388,9 @@ INCIDENT:	BOMBING
 WEAPON:	BOMB
 PERP INDIV:	GUERRILLAS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -337,7 +399,9 @@ INCIDENT:	BOMBING
 WEAPON:	BOMB
 PERP INDIV:	CREW MEMBERS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	YURIY GREMITSKIKH
 
 
@@ -346,7 +410,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	-
 PERP ORG:	ELN
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	NEVARDO MORALES
 
 
@@ -355,7 +421,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	-
 PERP ORG:	ELN
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	BERNARDO JARAMILLO
 	JAIME PARDO
 	VIRGILIO BARCO
@@ -366,7 +434,9 @@ INCIDENT:	BOMBING
 WEAPON:	POWERFUL BOMB
 PERP INDIV:	URBAN GUERRILLAS
 PERP ORG:	FMLN
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -375,7 +445,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	MAURICIO MEJIA
 	ROBERTO BRENOW
 
@@ -385,7 +457,9 @@ INCIDENT:	ATTACK
 WEAPON:	FIREARMS
 PERP INDIV:	POPULAR UNITY MEMBERS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	CARLOS CACERES
 	PATRICIO AYLWIN
 
@@ -395,7 +469,9 @@ INCIDENT:	ATTACK
 WEAPON:	EXPLOSIVES
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -404,7 +480,9 @@ INCIDENT:	BOMBING
 WEAPON:	DYNAMITE
 PERP INDIV:	UC-ELN MEMBERS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	HERNANDO ROJAS
 	MARTHA ELENA BARON
 
@@ -414,7 +492,9 @@ INCIDENT:	ATTACK
 WEAPON:	BOMB
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	ALFREDO JACKSON
 
 
@@ -423,7 +503,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	CURRENT ADMINISTRATION MEMBERS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	GREGORIO ROSA CHAVEZ
 	ROSA CHAVEZ
 	MAURICIO ERNESTO
@@ -435,7 +517,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	TERRORISTS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -444,7 +528,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	JAIME PARDO LEAL
 	DIANA MONTOYA
 	VALENCIA GARCIA
@@ -455,7 +541,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	CARLOS VALENCIA GARCIA
 
 
@@ -464,7 +552,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	ONE MAN
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	LUIS CARLOS GALAN
 
 
@@ -473,7 +563,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	CARLOS GALAN
 	ALVARO GOMEZ
 	ALFONSO LOPEZ MICHELSEN
@@ -484,7 +576,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	LUIS CARLOS GALAN
 	EDUARDO AREVALO
 
@@ -494,7 +588,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	PARAMILITARY PERSONNEL
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	LUIS CARLOS GALAN
 	EDUARDO MARTINEZ ROMERO
 	FILMO LOPEZ UZCATEGUI
@@ -507,7 +603,9 @@ INCIDENT:	ATTACK
 WEAPON:	SEVERAL EXPLOSIVE DEVICES
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -516,7 +614,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	RIGHT-HAND MAN
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	GONZALO RODRIGUEZ GACHA
 	RODRIGUEZ GACHA
 	PABLO ESCOBAR GAVIRIA
@@ -533,7 +633,9 @@ INCIDENT:	ATTACK
 WEAPON:	DYNAMITE
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	LUIS CARLOS GALAN
 	MIGUEL MAZA MARQUEZ
 	MAZA MARQUEZ
@@ -545,7 +647,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	FORMER MEMBER
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	JOSE MANUEL MARTIN MEDEM
 	JAVIER GONZALEZ
 	JUAN JOSE SOTO VARGAS
@@ -559,7 +663,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	LUIS CARLOS GALAN
 
 
@@ -568,7 +674,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	YOUNG MECHANICS STUDENT
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	GIUSSEPPE CORO
 	MIRANDA REINA
 
@@ -578,7 +686,9 @@ INCIDENT:	BOMBING
 WEAPON:	BOMB
 PERP INDIV:	ONE DEAD PERSON
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	YOLANDA GOMEZ
 	J.J. PINILLA
 	HERIBERTO LOPEZ GONZALEZ
@@ -599,7 +709,9 @@ INCIDENT:	BOMBING
 WEAPON:	BOMB
 PERP INDIV:	NATIONAL UNIVERSITY STUDENTS
 PERP ORG:	ELN
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	GEORGE BUSH
 	LILIANA VIGOLLA
 
@@ -609,7 +721,9 @@ INCIDENT:	BOMBING
 WEAPON:	DEVICES
 PERP INDIV:	TWO STUDENTS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -618,7 +732,9 @@ INCIDENT:	BOMBING
 WEAPON:	] POWERFUL BOMB
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	JAIME GAVIRIA
 
 
@@ -627,7 +743,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	LUIS FERNANDO GALEANO
 	GALEANO BERRIO
 	GONZALO RODRIGUEZ
@@ -638,7 +756,9 @@ INCIDENT:	BOMBING
 WEAPON:	BOMB
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -647,7 +767,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	TERRORISTS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	MR CUELLAR OSORIO
 
 
@@ -656,7 +778,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	GUERRILLAS
 PERP ORG:	FMLN
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	SHAFIK HANDAL
 	NAPOLEON DUARTE
 	ALFREDO CRISTIANI
@@ -668,7 +792,9 @@ WEAPON:	DYNAMITE
 	BOMB
 PERP INDIV:	UNIDENTIFIED MEN
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -677,7 +803,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	-
 PERP ORG:	FMLN
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -687,7 +815,9 @@ WEAPON:	DYNAMITE
 	BOMBS
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -696,7 +826,9 @@ INCIDENT:	BOMBING
 WEAPON:	POWERFUL BOMBS
 PERP INDIV:	ONE PERSON
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -705,7 +837,9 @@ INCIDENT:	ATTACK
 WEAPON:	BOMBS
 PERP INDIV:	PROMINENT POLITICIAN
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	RAMIRO CASTILLO
 	LIONEL SISNIEGA
 
@@ -715,7 +849,9 @@ INCIDENT:	BOMBING
 WEAPON:	BOMBS
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -724,7 +860,9 @@ INCIDENT:	KIDNAPPING
 WEAPON:	-
 PERP INDIV:	HEAVILY ARMED MEN
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	ROBERTO LIZARDI
 	LUIS ROSSI
 	LESBIA LEAL
@@ -735,7 +873,9 @@ INCIDENT:	KIDNAPPING
 WEAPON:	-
 PERP INDIV:	GUERRILLAS
 PERP ORG:	ELN
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	PABLO MARTIN BERROCAL
 	MANUEL PEREZ
 	LUIS MARTIN BERROCAL
@@ -747,7 +887,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	THREE MEMBERS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	FIDEL QUISPE
 	ISIDORO SAUNE
 	DIONISIO AGUIRRE
@@ -760,7 +902,9 @@ INCIDENT:	ATTACK
 WEAPON:	DETECT EXPLOSIVES
 PERP INDIV:	-
 PERP ORG:	MRTA
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	CARLOS MENEM
 	JOSE SARNEY
 	VIRGILIO BARCO
@@ -777,7 +921,9 @@ INCIDENT:	ATTACK
 WEAPON:	BOMB
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	DOMINGO CAVALLO
 	FERNANDO SOLANA
 	ROBERTO DE ABREU
@@ -790,7 +936,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	MARIO PALENCIA
 	CARLOS AUGUSTO MORALES
 	ROBERTO VALLE
@@ -804,7 +952,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	TERRORISTS
 PERP ORG:	FMLN
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	ALFREDO CRISTIANI
 
 
@@ -813,7 +963,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	DANIEL ORTEGA
 	ALFREDO CRISTIANI
 
@@ -823,7 +975,9 @@ INCIDENT:	ATTACK
 WEAPON:	BOMBS
 PERP INDIV:	300,000 PUBLIC SERVANTS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	LUIZ ALVA CASTRO
 	GUILLERMO LARCO
 	ALVA CASTRO
@@ -834,7 +988,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	MAURICIO SANDOVAL
 	GREGORIO ROSA CHAVEZ
 	CARLOS ANDRES PEREZ
@@ -848,7 +1004,9 @@ WEAPON:	LONG-STANDING
 	BOMBS
 PERP INDIV:	GUERRILLAS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	MIKHAIL MAYOROV
 	GEORGE BUSH
 	ALFREDO CRISTIANI
@@ -859,7 +1017,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	GUERRILLAS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -868,7 +1028,9 @@ INCIDENT:	BOMBING
 WEAPON:	CLOSE TANKS
 PERP INDIV:	TERRORISTS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -877,7 +1039,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -886,7 +1050,9 @@ INCIDENT:	BOMBING
 WEAPON:	BOMB
 PERP INDIV:	ONLY ARRESTED TWO SUSPECTS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -895,7 +1061,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	GUERRILLAS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	HECTOR HERIBERTO HERNANDEZ
 	ALONSO CHAVEZ
 	MAURICIO MENA SANDOVAL
@@ -906,7 +1074,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	GUERRILLAS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	MARCOS MCGRATH
 	JOSE LUIS LACUNZA
 	ABDIEL ADAMES
@@ -919,7 +1089,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -928,7 +1100,9 @@ INCIDENT:	KIDNAPPING
 WEAPON:	-
 PERP INDIV:	THREE HEAVILY ARMED MEN
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	FEDERICO ESTRADA VELEZ
 
 
@@ -939,7 +1113,9 @@ WEAPON:	GRENADE
 	GUNS
 PERP INDIV:	URBAN GUERRILLAS
 PERP ORG:	FMLN
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -948,7 +1124,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	RIGHT MAN
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	MARIO VARGAS LLOSA
 	VARGAS LLOSA
 
@@ -958,7 +1136,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	CARLOS MENESES PIZARRO
 
 
@@ -967,7 +1147,9 @@ INCIDENT:	ATTACK
 WEAPON:	MACHINEGUN
 PERP INDIV:	TERRORISTS
 PERP ORG:	FMLN
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	ALFREDO CRISTIANI
 	MILTON GRIMALDI
 	ROBERTO ARMANDO RIVERA
@@ -979,7 +1161,9 @@ INCIDENT:	ATTACK
 WEAPON:	POWERFUL EXPLOSIVES
 PERP INDIV:	GUERRILLAS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	CARLOS ANDRES PEREZ
 	JORGE ROMERO
 
@@ -989,7 +1173,9 @@ INCIDENT:	BOMBING
 WEAPON:	BOMB
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -998,7 +1184,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	VIRGILIO BARCO
 	LUIS CARLOS GALAN SARMIENTO
 
@@ -1008,7 +1196,9 @@ INCIDENT:	KIDNAPPING
 WEAPON:	-
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	CARLOS ANDRES PEREZ
 	NORBERTO RODRIGUEZ
 
@@ -1018,7 +1208,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	FORCES MEMBERS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	VENANCIO RAMIREZ
 	EUGENIO VIDES CASANOVA
 
@@ -1028,7 +1220,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	GUERRILLAS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	JESUS FERNANDEZ
 	ALEJANDRO SANCHEZ
 	MAURICIO SANDOVAL
@@ -1040,7 +1234,9 @@ INCIDENT:	ATTACK
 WEAPON:	BOMBS
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -1049,7 +1245,9 @@ INCIDENT:	ATTACK
 WEAPON:	-
 PERP INDIV:	-
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	-
 
 
@@ -1058,7 +1256,9 @@ INCIDENT:	ATTACK
 WEAPON:	EXPLOSIVE DEVICES
 PERP INDIV:	GUERRILLAS
 PERP ORG:	-
+Argument 'string' has incorrect type (expected unicode, got str)
 TARGET:	-
+
 VICTIM:	HECTOR GRAMAJO MORALES
 
 
