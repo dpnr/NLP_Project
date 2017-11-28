@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="656e5cb8-75dd-4430-b0ed-642d4266124c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eventextract_ML.py" afterPath="$PROJECT_DIR$/eventextract_ML.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/extractVictims.py" afterPath="$PROJECT_DIR$/extractVictims.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nlpProject.py" afterPath="$PROJECT_DIR$/nlpProject.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testR.txt" afterPath="$PROJECT_DIR$/testR.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testR.txt.trace" afterPath="$PROJECT_DIR$/testR.txt.trace" />
-    </list>
+    <list default="true" id="656e5cb8-75dd-4430-b0ed-642d4266124c" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
