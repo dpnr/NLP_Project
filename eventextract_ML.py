@@ -62,8 +62,8 @@ def model():
     # trainY=trainY
     # testX = map(lambda x: float(x), testX)
     text_clf = Pipeline([
-                        ('vect', CountVectorizer(stop_words='english')),
-                         ('tfidf', TfidfTransformer()),
+                        ('vect', CountVectorizer(stop_words='english', ngram_range=(1,1))),
+                         ('tfidf', TfidfTransformer(use_idf=True)),
 
                           ('clf', SGDClassifier(loss='hinge', penalty="l1",
                                                alpha=1e-3, random_state=42,

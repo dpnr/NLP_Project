@@ -50,14 +50,15 @@ with open(testFile) as file:
     #for the last para we need to append it to the data
     testData.append(" ".join(para))
 
-text_clf=train_model.model()
+# text_clf=train_model.model()
 
 # print testData
 
+F=open("testR.txt",'w')
 
 for data in testData:
     fileArguments = {}
-    
+
     ## Do stuff here to extract the arguments and print it out!!!
     with open('temfile.txt','w') as temp:
         temp.write(data)
@@ -66,8 +67,8 @@ for data in testData:
     #we could directly write a print here instead of adding to results
     F.write("ID:\t"+ fileArguments["id"] + "\n")
     
-    fileArguments["incident"] = e_incident.extracting('temfile.txt',text_clf)#e_incident.extracting(path + filename)  ## replace this with some function call to get the right result
-    #fileArguments["incident"] = "-"
+    # fileArguments["incident"] = e_incident.extracting('temfile.txt',text_clf)#e_incident.extracting(path + filename)  ## replace this with some function call to get the right result
+    fileArguments["incident"] = "-"
     F.write("INCIDENT:\t"+ fileArguments["incident"]+ "\n")
 
     # fileArguments["weapon"] =  e_weapon.extracting('temfile.txt')
@@ -94,10 +95,10 @@ for data in testData:
 
     # print ("TARGET: "+ fileArguments["target"])
 
-    # fileArguments["victim"] = e_Victims.extracting('temfile.txt') ## replace this with some function call to get the right result
-    # victims[fileArguments["id"]] = ",".join(fileArguments["victim"])
-    fileArguments["victim"] = "-"
-    F.write("VICTIM:\t" + "\n\t".join(fileArguments["victim"]))
+    fileArguments["victim"] = e_Victims.extracting('temfile.txt') ## replace this with some function call to get the right result
+    victims[fileArguments["id"]] = ",".join(fileArguments["victim"])
+    # fileArguments["victim"] = "-"
+    F.write("VICTIM:\t" + "\n\t".join(fileArguments["victim"]) + "\n")
 
     F.write ("\n") ##line space
 

@@ -16,24 +16,26 @@ VICTIM:         ARNULFO ROMERO
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0004
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         ARNULFO ROMERO
+                RENE EMILIO
+                JESUIT PRIESTS
 
      SCORES for DEV-MUC3-0004
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/3)	   0.00 (0/0)         0.00
+Victims         0.67 (2/3)	   0.67 (2/3)         0.67
 --------        --------------     --------------     ----
-TOTAL           0.20 (1/5)	   1.00 (1/1)         0.33
+TOTAL           0.40 (2/5)	   0.67 (2/3)         0.50
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -50,22 +52,22 @@ VICTIM:         JESUIT PRIESTS
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0022
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         JESUIT PRIESTS
 
      SCORES for DEV-MUC3-0022
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
 TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
 
@@ -84,24 +86,25 @@ VICTIM:         HECTOR OQUELI COLINDRES
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0026
-INCIDENT:       KIDNAPPING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         HECTOR OQUELI COLINDRES
+                MAURICIO SANDOVAL
 
      SCORES for DEV-MUC3-0026
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         1.00 (1/1)	   0.50 (1/2)         0.67
 --------        --------------     --------------     ----
-TOTAL           0.33 (1/3)	   1.00 (1/1)         0.50
+TOTAL           0.33 (1/3)	   0.50 (1/2)         0.40
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -120,24 +123,25 @@ VICTIM:         JESUIT PRIESTS / JESUITS
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0028
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         SIGIFREDO OCHOA PEREZ
+                JESUIT PRIESTS
 
      SCORES for DEV-MUC3-0028
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/3)	   0.00 (0/0)         0.00
+Victims         0.33 (1/3)	   0.50 (1/2)         0.40
 --------        --------------     --------------     ----
-TOTAL           0.17 (1/6)	   1.00 (1/1)         0.29
+TOTAL           0.17 (1/6)	   0.50 (1/2)         0.25
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -155,24 +159,25 @@ VICTIM:         HECTOR OQUELI
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0036
-INCIDENT:       KIDNAPPING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         GILDA FLORES
+                MARIO SOLORZANO
 
      SCORES for DEV-MUC3-0036
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/2)	   0.00 (0/0)         0.00
+Victims         0.50 (1/2)	   0.50 (1/2)         0.50
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
+TOTAL           0.25 (1/4)	   0.50 (1/2)         0.33
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -190,7 +195,7 @@ VICTIM:         -
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0044
-INCIDENT:       BOMBING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -200,14 +205,14 @@ VICTIM:         -
      SCORES for DEV-MUC3-0044
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/2)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/1)	   0.00 (0/0)         0.00
 Victims         0.00 (0/0)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.17 (1/6)	   1.00 (1/1)         0.29
+TOTAL           0.00 (0/6)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -226,7 +231,7 @@ VICTIM:         -
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0051
-INCIDENT:       BOMBING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -236,14 +241,14 @@ VICTIM:         -
      SCORES for DEV-MUC3-0051
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/3)	   0.00 (0/0)         0.00
 Victims         0.00 (0/0)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.17 (1/6)	   1.00 (1/1)         0.29
+TOTAL           0.00 (0/6)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -261,24 +266,29 @@ VICTIM:         ARNULFO ROMERO
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0061
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         ROBERTO GIRON FLORES
+                JULIO ALFREDO SAMAYOA
+                GERARDO LE CHEVALIER
+                IVON FLORES
+                ANTONIO CASTILLO CLARAMOUNT
+                ROBERTO D'AUBUISSON
 
      SCORES for DEV-MUC3-0061
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/2)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         0.00 (0/1)	   0.00 (0/6)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
+TOTAL           0.00 (0/4)	   0.00 (0/6)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -296,24 +306,25 @@ VICTIM:         NORMAL ECHEVARRIA
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0077
-INCIDENT:       KIDNAPPING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         MICHAEL REYFF
+                MR ECHEVARRIA
 
      SCORES for DEV-MUC3-0077
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/2)	   0.00 (0/0)         0.00
+Victims         0.50 (1/2)	   0.50 (1/2)         0.50
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
+TOTAL           0.25 (1/4)	   0.50 (1/2)         0.33
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -330,7 +341,7 @@ VICTIM:         UNION MEMBERS / LABOR UNION MEMBERS
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0102
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -340,14 +351,14 @@ VICTIM:         -
      SCORES for DEV-MUC3-0102
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/1)	   0.00 (0/0)         0.00
 Victims         0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.33 (1/3)	   1.00 (1/1)         0.50
+TOTAL           0.00 (0/3)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -368,24 +379,27 @@ VICTIM:         JOSE MANUEL JIMENEZ RIVERA
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0115
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         JOSE MANUEL JIMENEZ RIVERA
+                PEDRO RAFAEL JIMENEZ CORTEZ
+                JOSE ISAAC FORERO LINARES
+                PEDRO RAFAEL ORDONEZ
 
      SCORES for DEV-MUC3-0115
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/5)	   0.00 (0/0)         0.00
+Victims         0.80 (4/5)	   1.00 (4/4)         0.89
 --------        --------------     --------------     ----
-TOTAL           0.12 (1/8)	   1.00 (1/1)         0.22
+TOTAL           0.50 (4/8)	   1.00 (4/4)         0.67
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -403,24 +417,26 @@ VICTIM:         -
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0117
-INCIDENT:       BOMBING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         LUIS ROSSMAN
+                RAMIRO PUYOL
+                JOSE VERNET
 
      SCORES for DEV-MUC3-0117
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/2)	   0.00 (0/0)         0.00
-Victims         0.00 (0/0)	   0.00 (0/0)         0.00
+Victims         0.00 (0/0)	   0.00 (0/3)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
+TOTAL           0.00 (0/4)	   0.00 (0/3)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -439,24 +455,31 @@ VICTIM:         ALEKSANDR TRUSHIN
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0118
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         HECTOR GRAMEJO
+                ALFONSO CABRERA
+                RAQUEL BLANDON
+                MARIO DAVID GARCIA
+                DANILO ROCA
+                NICOLAS BUONAFINA
+                GUSTAVO ANZUETO VIELMAN
+                MARIO CASTEJON
 
      SCORES for DEV-MUC3-0118
 
                 RECALL             PRECISION          F-MEASURE
-Incident        0.00 (0/1)	   0.00 (0/1)         0.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/2)	   0.00 (0/0)         0.00
-Victims         0.00 (0/2)	   0.00 (0/0)         0.00
+Victims         0.00 (0/2)	   0.00 (0/8)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/7)	   0.00 (0/1)         0.00
+TOTAL           0.00 (0/7)	   0.00 (0/8)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -473,22 +496,22 @@ VICTIM:         JOSE NAPOLEON DUARTE
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0126
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         JOSE NAPOLEON DUARTE
 
      SCORES for DEV-MUC3-0126
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/1)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
 TOTAL           0.17 (1/6)	   1.00 (1/1)         0.29
 
@@ -510,7 +533,7 @@ VICTIM:         CHILD
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0134
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -520,14 +543,14 @@ VICTIM:         -
      SCORES for DEV-MUC3-0134
 
                 RECALL             PRECISION          F-MEASURE
-Incident        0.00 (0/1)	   0.00 (0/1)         0.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
 Victims         0.00 (0/4)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/6)	   0.00 (0/1)         0.00
+TOTAL           0.00 (0/6)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -545,24 +568,28 @@ VICTIM:         ROBERTO NAVAS
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0139
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         ROBERTO NAVAS
+                LUIS GALDAMEZ
+                ROBERTO GARCIA
+                VIDES CASANOVA
+                JOSE NAPOLEON DUARTE
 
      SCORES for DEV-MUC3-0139
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/2)	   0.00 (0/0)         0.00
+Victims         1.00 (2/2)	   0.40 (2/5)         0.57
 --------        --------------     --------------     ----
-TOTAL           0.20 (1/5)	   1.00 (1/1)         0.33
+TOTAL           0.40 (2/5)	   0.40 (2/5)         0.40
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -581,7 +608,7 @@ VICTIM:         -
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0165
-INCIDENT:       BOMBING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -591,14 +618,14 @@ VICTIM:         -
      SCORES for DEV-MUC3-0165
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/3)	   0.00 (0/0)         0.00
 Victims         0.00 (0/0)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.20 (1/5)	   1.00 (1/1)         0.33
+TOTAL           0.00 (0/5)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -616,24 +643,25 @@ VICTIM:         LUIS CASTRO ROMAN
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0169
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         LEON FEBRES CORDERO
+                FEBRES CORDERO
 
      SCORES for DEV-MUC3-0169
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/2)	   0.00 (0/0)         0.00
+Victims         0.00 (0/2)	   0.00 (0/2)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
+TOTAL           0.00 (0/4)	   0.00 (0/2)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -650,24 +678,26 @@ VICTIM:         ROBERTO GARCIA ALVARADO
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0182
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         MARIO MARQUEZ
+                ROBERTO GARCIA ALVARADO
+                FRANCISCO GUERRERO
 
      SCORES for DEV-MUC3-0182
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         1.00 (1/1)	   0.33 (1/3)         0.50
 --------        --------------     --------------     ----
-TOTAL           0.33 (1/3)	   1.00 (1/1)         0.50
+TOTAL           0.33 (1/3)	   0.33 (1/3)         0.33
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -684,7 +714,7 @@ VICTIM:         -
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0197
-INCIDENT:       BOMBING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -694,14 +724,14 @@ VICTIM:         -
      SCORES for DEV-MUC3-0197
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/1)	   0.00 (0/0)         0.00
 Victims         0.00 (0/0)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.33 (1/3)	   1.00 (1/1)         0.50
+TOTAL           0.00 (0/3)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -718,24 +748,24 @@ VICTIM:         U.S. MISSIONARIES / MISSIONARIES
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0213
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         EDUARDO PEREZ BELTRAN
 
      SCORES for DEV-MUC3-0213
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.33 (1/3)	   1.00 (1/1)         0.50
+TOTAL           0.00 (0/3)	   0.00 (0/1)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -754,24 +784,27 @@ VICTIM:         MIGUEL ALFREDO MAZA MARQUEZ
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0225
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         MIGUEL ALFREDO MAZA MARQUEZ
+                ALFONSO GOMEZ
+                LUIS JAVIER WULMEN CAMARGO
+                JAVIER RIVERA
 
      SCORES for DEV-MUC3-0225
 
                 RECALL             PRECISION          F-MEASURE
-Incident        0.00 (0/1)	   0.00 (0/1)         0.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/3)	   0.00 (0/0)         0.00
+Victims         0.33 (1/3)	   0.25 (1/4)         0.29
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/6)	   0.00 (0/1)         0.00
+TOTAL           0.17 (1/6)	   0.25 (1/4)         0.20
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -788,24 +821,24 @@ VICTIM:         AMERICAN CITIZENS / CITIZENS
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0231
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         MARIO MOLINA
 
      SCORES for DEV-MUC3-0231
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.50 (1/2)	   1.00 (1/1)         0.67
+TOTAL           0.00 (0/2)	   0.00 (0/1)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -823,24 +856,25 @@ VICTIM:         ANTONIO RODRIGUEZ PORTH
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0239
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         OSCAR ARIAS
+                LUIS GUILLERMO SOLIS
 
      SCORES for DEV-MUC3-0239
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/2)	   0.00 (0/0)         0.00
+Victims         0.00 (0/2)	   0.00 (0/2)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
+TOTAL           0.00 (0/4)	   0.00 (0/2)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -859,24 +893,25 @@ VICTIM:         JOSE ANTONIO RODRIGUEZ PORTH
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0241
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         JOSE ANTONIO RODRIGUEZ PORTH
+                EUGENIO CASTRO
 
      SCORES for DEV-MUC3-0241
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/3)	   0.00 (0/0)         0.00
+Victims         0.33 (1/3)	   0.50 (1/2)         0.40
 --------        --------------     --------------     ----
-TOTAL           0.20 (1/5)	   1.00 (1/1)         0.33
+TOTAL           0.20 (1/5)	   0.50 (1/2)         0.29
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -894,24 +929,27 @@ VICTIM:         ANTONIO RODRIGUEZ PORTH
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0243
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         EDUARDO COLINDRES
+                NELSON LOPEZ
+                ANTONIO RODRIGUEZ PORTH
+                RODRIGUEZ PORTH
 
      SCORES for DEV-MUC3-0243
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/2)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         1.00 (1/1)	   0.25 (1/4)         0.40
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
+TOTAL           0.25 (1/4)	   0.25 (1/4)         0.25
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -928,24 +966,27 @@ VICTIM:         ANTONIO RODRIGUEZ PORTH
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0253
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         ANTONIO RODRIGUEZ
+                BAYARDO ARCE
+                RODRIGUEZ PORTH
+                ANASTASIO SOMOZA
 
      SCORES for DEV-MUC3-0253
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         0.00 (0/1)	   0.00 (0/4)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
+TOTAL           0.00 (0/4)	   0.00 (0/4)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -963,7 +1004,7 @@ VICTIM:         PERSON
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0260
-INCIDENT:       BOMBING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -973,14 +1014,14 @@ VICTIM:         -
      SCORES for DEV-MUC3-0260
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/1)	   0.00 (0/0)         0.00
 Victims         0.00 (0/2)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.20 (1/5)	   1.00 (1/1)         0.33
+TOTAL           0.00 (0/5)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -999,22 +1040,22 @@ VICTIM:         PEOPLE
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0261
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         MAURICIO GUZMAN AGUILAR
 
      SCORES for DEV-MUC3-0261
 
                 RECALL             PRECISION          F-MEASURE
-Incident        0.00 (0/1)	   0.00 (0/1)         0.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/2)	   0.00 (0/0)         0.00
 Targets         0.00 (0/1)	   0.00 (0/0)         0.00
-Victims         0.00 (0/2)	   0.00 (0/0)         0.00
+Victims         0.00 (0/2)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
 TOTAL           0.00 (0/7)	   0.00 (0/1)         0.00
 
@@ -1033,7 +1074,7 @@ VICTIM:         -
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0263
-INCIDENT:       BOMBING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -1043,14 +1084,14 @@ VICTIM:         -
      SCORES for DEV-MUC3-0263
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/1)	   0.00 (0/0)         0.00
 Victims         0.00 (0/0)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.20 (1/5)	   1.00 (1/1)         0.33
+TOTAL           0.00 (0/5)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1069,7 +1110,7 @@ VICTIM:         SOVIET CITIZENS
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0277
-INCIDENT:       BOMBING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -1079,14 +1120,14 @@ VICTIM:         -
      SCORES for DEV-MUC3-0277
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/2)	   0.00 (0/0)         0.00
 Victims         0.00 (0/2)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.12 (1/8)	   1.00 (1/1)         0.22
+TOTAL           0.00 (0/8)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1103,24 +1144,24 @@ VICTIM:         SOVIET SAILORS / SAILORS / CREW MEMBERS
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0280
-INCIDENT:       BOMBING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         YURIY GREMITSKIKH
 
      SCORES for DEV-MUC3-0280
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/1)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
+TOTAL           0.00 (0/4)	   0.00 (0/1)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1137,7 +1178,7 @@ VICTIM:         MAYORS OF COCORNA, SAN CARLOS, AND SAN FRANCISCO
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0284
-INCIDENT:       KIDNAPPING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -1147,14 +1188,14 @@ VICTIM:         -
      SCORES for DEV-MUC3-0284
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
 Victims         0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.33 (1/3)	   1.00 (1/1)         0.50
+TOTAL           0.00 (0/3)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1171,24 +1212,26 @@ VICTIM:         -
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0287
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         BERNARDO JARAMILLO
+                JAIME PARDO
+                VIRGILIO BARCO
 
      SCORES for DEV-MUC3-0287
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/1)	   0.00 (0/0)         0.00
-Victims         0.00 (0/0)	   0.00 (0/0)         0.00
+Victims         0.00 (0/0)	   0.00 (0/3)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.33 (1/3)	   1.00 (1/1)         0.50
+TOTAL           0.00 (0/3)	   0.00 (0/3)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1207,7 +1250,7 @@ VICTIM:         -
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0289
-INCIDENT:       BOMBING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -1217,14 +1260,14 @@ VICTIM:         -
      SCORES for DEV-MUC3-0289
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/3)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/1)	   0.00 (0/0)         0.00
 Victims         0.00 (0/0)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.14 (1/7)	   1.00 (1/1)         0.25
+TOTAL           0.00 (0/7)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1242,24 +1285,25 @@ VICTIM:         ROBERTO BRENOW
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0297
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         MAURICIO MEJIA
+                ROBERTO BRENOW
 
      SCORES for DEV-MUC3-0297
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/2)	   0.00 (0/0)         0.00
+Victims         0.50 (1/2)	   0.50 (1/2)         0.50
 --------        --------------     --------------     ----
-TOTAL           0.20 (1/5)	   1.00 (1/1)         0.33
+TOTAL           0.20 (1/5)	   0.50 (1/2)         0.29
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1278,24 +1322,25 @@ VICTIM:         DEATH
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0298
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         CARLOS CACERES
+                PATRICIO AYLWIN
 
      SCORES for DEV-MUC3-0298
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/2)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/1)	   0.00 (0/0)         0.00
-Victims         0.00 (0/2)	   0.00 (0/0)         0.00
+Victims         0.00 (0/2)	   0.00 (0/2)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.12 (1/8)	   1.00 (1/1)         0.22
+TOTAL           0.00 (0/8)	   0.00 (0/2)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1312,7 +1357,7 @@ VICTIM:         -
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0306
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -1322,14 +1367,14 @@ VICTIM:         -
      SCORES for DEV-MUC3-0306
 
                 RECALL             PRECISION          F-MEASURE
-Incident        0.00 (0/1)	   0.00 (0/1)         0.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/1)	   0.00 (0/0)         0.00
 Victims         0.00 (0/0)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/5)	   0.00 (0/1)         0.00
+TOTAL           0.00 (0/5)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1346,24 +1391,25 @@ VICTIM:         -
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0316
-INCIDENT:       BOMBING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         HERNANDO ROJAS
+                MARTHA ELENA BARON
 
      SCORES for DEV-MUC3-0316
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/1)	   0.00 (0/0)         0.00
-Victims         0.00 (0/0)	   0.00 (0/0)         0.00
+Victims         0.00 (0/0)	   0.00 (0/2)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.20 (1/5)	   1.00 (1/1)         0.33
+TOTAL           0.00 (0/5)	   0.00 (0/2)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1380,24 +1426,24 @@ VICTIM:         CHILDREN
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0318
-INCIDENT:       BOMBING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         ALFREDO JACKSON
 
      SCORES for DEV-MUC3-0318
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/1)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.20 (1/5)	   1.00 (1/1)         0.33
+TOTAL           0.00 (0/5)	   0.00 (0/1)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1416,24 +1462,26 @@ VICTIM:         ROMERO
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0325
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         GREGORIO ROSA CHAVEZ
+                MAURICIO ERNESTO
+                JOSE NAPOLEON DUARTE
 
      SCORES for DEV-MUC3-0325
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/3)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         0.00 (0/1)	   0.00 (0/3)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.20 (1/5)	   1.00 (1/1)         0.33
+TOTAL           0.00 (0/5)	   0.00 (0/3)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1450,7 +1498,7 @@ VICTIM:         SAUL CANTORAL
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0342
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -1460,14 +1508,14 @@ VICTIM:         -
      SCORES for DEV-MUC3-0342
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
 Victims         0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.33 (1/3)	   1.00 (1/1)         0.50
+TOTAL           0.00 (0/3)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1485,24 +1533,26 @@ VICTIM:         CARLOS ERNESTO VALENCIA GARCIA
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0345
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         JAIME PARDO LEAL
+                DIANA MONTOYA
+                VALENCIA GARCIA
 
      SCORES for DEV-MUC3-0345
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/2)	   0.00 (0/0)         0.00
+Victims         0.00 (0/2)	   0.00 (0/3)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
+TOTAL           0.00 (0/4)	   0.00 (0/3)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1519,22 +1569,22 @@ VICTIM:         CARLOS VALENCIA GARCIA
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0347
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         CARLOS VALENCIA GARCIA
 
      SCORES for DEV-MUC3-0347
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
 TOTAL           0.50 (1/2)	   1.00 (1/1)         0.67
 
@@ -1554,22 +1604,22 @@ VICTIM:         LUIS CARLOS GALAN
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0351
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         LUIS CARLOS GALAN
 
      SCORES for DEV-MUC3-0351
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/2)	   0.00 (0/0)         0.00
+Victims         0.50 (1/2)	   1.00 (1/1)         0.67
 --------        --------------     --------------     ----
 TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
 
@@ -1588,24 +1638,24 @@ VICTIM:         LUIS CARLOS GALAN
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0354
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         CARLOS GALAN
 
      SCORES for DEV-MUC3-0354
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.50 (1/2)	   1.00 (1/1)         0.67
+TOTAL           0.00 (0/2)	   0.00 (0/1)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1624,24 +1674,25 @@ VICTIM:         LUIS CARLOS GALAN
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0366
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         LUIS CARLOS GALAN
+                EDUARDO AREVALO
 
      SCORES for DEV-MUC3-0366
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/3)	   0.00 (0/0)         0.00
+Victims         0.33 (1/3)	   0.50 (1/2)         0.40
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
+TOTAL           0.25 (1/4)	   0.50 (1/2)         0.33
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1658,24 +1709,28 @@ VICTIM:         LUIS CARLOS GALAN
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0367
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         LUIS CARLOS GALAN
+                EDUARDO MARTINEZ ROMERO
+                FILMO LOPEZ UZCATEGUI
+                MARTINEZ ROMERO
+                ISMAEL ORDAZ
 
      SCORES for DEV-MUC3-0367
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         1.00 (1/1)	   0.20 (1/5)         0.33
 --------        --------------     --------------     ----
-TOTAL           0.33 (1/3)	   1.00 (1/1)         0.50
+TOTAL           0.33 (1/3)	   0.20 (1/5)         0.25
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1692,7 +1747,7 @@ VICTIM:         -
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0371
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -1702,14 +1757,14 @@ VICTIM:         -
      SCORES for DEV-MUC3-0371
 
                 RECALL             PRECISION          F-MEASURE
-Incident        0.00 (0/1)	   0.00 (0/1)         0.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
 Victims         0.00 (0/0)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/3)	   0.00 (0/1)         0.00
+TOTAL           0.00 (0/3)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1726,24 +1781,32 @@ VICTIM:         JUSTICE MARIA ELENA DIAZ / MARIA ELENA DIAZ
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0391
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         GONZALO RODRIGUEZ GACHA
+                RODRIGUEZ GACHA
+                PABLO ESCOBAR GAVIRIA
+                FREDDY RODRIGUEZ
+                FERNANDO GALEANO BERRIO
+                ESCOBAR GAVIRIA
+                MARIA ELENA DIAZ
+                LUIS RUBIO ROJAS
+                JAIR KLEIN
 
      SCORES for DEV-MUC3-0391
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         1.00 (1/1)	   0.11 (1/9)         0.20
 --------        --------------     --------------     ----
-TOTAL           0.33 (1/3)	   1.00 (1/1)         0.50
+TOTAL           0.33 (1/3)	   0.11 (1/9)         0.17
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1761,24 +1824,27 @@ VICTIM:         LUIS CARLOS GALAN
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0395
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         LUIS CARLOS GALAN
+                MIGUEL MAZA MARQUEZ
+                MAZA MARQUEZ
+                VIRGILIO BARCO VARGAS
 
      SCORES for DEV-MUC3-0395
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/2)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         1.00 (1/1)	   0.25 (1/4)         0.40
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
+TOTAL           0.25 (1/4)	   0.25 (1/4)         0.25
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1795,24 +1861,28 @@ VICTIM:         GENERAL CARLOS PRATS
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0404
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         JOSE MANUEL MARTIN MEDEM
+                JAVIER GONZALEZ
+                JUAN JOSE SOTO VARGAS
+                CARLOS PRATS
+                VICTOR HUGO BARRIERA
 
      SCORES for DEV-MUC3-0404
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         0.00 (0/1)	   0.00 (0/5)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.50 (1/2)	   1.00 (1/1)         0.67
+TOTAL           0.00 (0/2)	   0.00 (0/5)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1829,24 +1899,24 @@ VICTIM:         LUIS CARLOS GALAN SARMIENTO
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0406
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         LUIS CARLOS GALAN
 
      SCORES for DEV-MUC3-0406
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.50 (1/2)	   1.00 (1/1)         0.67
+TOTAL           0.00 (0/2)	   0.00 (0/1)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1864,24 +1934,25 @@ VICTIM:         MIGUEL ERNESTO MIRANDA REINA
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0411
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         GIUSSEPPE CORO
+                MIRANDA REINA
 
      SCORES for DEV-MUC3-0411
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/2)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         0.00 (0/1)	   0.00 (0/2)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.20 (1/5)	   1.00 (1/1)         0.33
+TOTAL           0.00 (0/5)	   0.00 (0/2)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1911,24 +1982,36 @@ VICTIM:         HERIBERTO LOPEZ GONZALEZ
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0413
-INCIDENT:       BOMBING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         YOLANDA GOMEZ
+                J.J. PINILLA
+                HERIBERTO LOPEZ GONZALEZ
+                JAIME ORLANDO SUAREZ
+                GLORIA CARRANZA
+                LEON ALVARO VITORINO
+                DANIEL MANTILLA
+                MARITZA MARTINEZ
+                GLADYS PAEZ
+                PEDRO ORTIZ
+                ABEL PORTILLO
+                CARMEN ROSA GUTIERREZ
+                MRS OJEDA
 
      SCORES for DEV-MUC3-0413
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/3)	   0.00 (0/0)         0.00
-Victims         0.00 (0/12)	   0.00 (0/0)         0.00
+Victims         0.83 (10/12)	   0.77 (10/13)       0.80
 --------        --------------     --------------     ----
-TOTAL           0.06 (1/17)	   1.00 (1/1)         0.11
+TOTAL           0.59 (10/17)	   0.77 (10/13)       0.67
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1945,24 +2028,25 @@ VICTIM:         -
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0441
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         GEORGE BUSH
+                LILIANA VIGOLLA
 
      SCORES for DEV-MUC3-0441
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/0)	   0.00 (0/0)         0.00
+Victims         0.00 (0/0)	   0.00 (0/2)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.33 (1/3)	   1.00 (1/1)         0.50
+TOTAL           0.00 (0/3)	   0.00 (0/2)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1979,7 +2063,7 @@ VICTIM:         STUDENTS
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0443
-INCIDENT:       BOMBING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -1989,14 +2073,14 @@ VICTIM:         -
      SCORES for DEV-MUC3-0443
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/1)	   0.00 (0/0)         0.00
 Victims         0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.20 (1/5)	   1.00 (1/1)         0.33
+TOTAL           0.00 (0/5)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2017,24 +2101,24 @@ VICTIM:         PEOPLE
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0451
-INCIDENT:       BOMBING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         JAIME GAVIRIA
 
      SCORES for DEV-MUC3-0451
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/4)	   0.00 (0/0)         0.00
-Victims         0.00 (0/2)	   0.00 (0/0)         0.00
+Victims         0.00 (0/2)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.12 (1/8)	   1.00 (1/1)         0.22
+TOTAL           0.00 (0/8)	   0.00 (0/1)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2051,24 +2135,26 @@ VICTIM:         COUNCILMAN
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0452
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         LUIS FERNANDO GALEANO
+                GALEANO BERRIO
+                GONZALO RODRIGUEZ
 
      SCORES for DEV-MUC3-0452
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         0.00 (0/1)	   0.00 (0/3)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
+TOTAL           0.00 (0/4)	   0.00 (0/3)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2085,7 +2171,7 @@ VICTIM:         -
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0465
-INCIDENT:       BOMBING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -2095,14 +2181,14 @@ VICTIM:         -
      SCORES for DEV-MUC3-0465
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/1)	   0.00 (0/0)         0.00
 Victims         0.00 (0/0)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
+TOTAL           0.00 (0/4)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2119,24 +2205,24 @@ VICTIM:         ORLANDO CUELLER OSORIO
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0467
-INCIDENT:       KIDNAPPING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         MR CUELLAR OSORIO
 
      SCORES for DEV-MUC3-0467
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.33 (1/3)	   1.00 (1/1)         0.50
+TOTAL           0.00 (0/3)	   0.00 (0/1)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2153,24 +2239,25 @@ VICTIM:         OSCAR ARNULFO ROMERO
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0472
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         SHAFIK HANDAL
+                NAPOLEON DUARTE
 
      SCORES for DEV-MUC3-0472
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         0.00 (0/1)	   0.00 (0/2)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.33 (1/3)	   1.00 (1/1)         0.50
+TOTAL           0.00 (0/3)	   0.00 (0/2)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2188,7 +2275,7 @@ VICTIM:         FELIPE COSTA
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0474
-INCIDENT:       BOMBING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -2198,14 +2285,14 @@ VICTIM:         -
      SCORES for DEV-MUC3-0474
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/2)	   0.00 (0/0)         0.00
 Victims         0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.17 (1/6)	   1.00 (1/1)         0.29
+TOTAL           0.00 (0/6)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2222,7 +2309,7 @@ VICTIM:         PERQUIN CIVILIANS / CIVILIANS
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0480
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -2232,14 +2319,14 @@ VICTIM:         -
      SCORES for DEV-MUC3-0480
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
 Victims         0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.33 (1/3)	   1.00 (1/1)         0.50
+TOTAL           0.00 (0/3)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2259,7 +2346,7 @@ VICTIM:         PERSONS
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0487
-INCIDENT:       BOMBING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -2269,14 +2356,14 @@ VICTIM:         -
      SCORES for DEV-MUC3-0487
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/2)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/3)	   0.00 (0/0)         0.00
 Victims         0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.14 (1/7)	   1.00 (1/1)         0.25
+TOTAL           0.00 (0/7)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2300,7 +2387,7 @@ VICTIM:         IRMA DE PUENTES
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0501
-INCIDENT:       BOMBING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -2310,14 +2397,14 @@ VICTIM:         -
      SCORES for DEV-MUC3-0501
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/8)	   0.00 (0/0)         0.00
 Victims         0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.09 (1/11)	   1.00 (1/1)         0.17
+TOTAL           0.00 (0/11)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2336,24 +2423,25 @@ VICTIM:         PROMINENT POLITICIAN / POLITICIAN
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0502
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         RAMIRO CASTILLO
+                LIONEL SISNIEGA
 
      SCORES for DEV-MUC3-0502
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/3)	   0.00 (0/0)         0.00
+Victims         0.00 (0/3)	   0.00 (0/2)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
+TOTAL           0.00 (0/4)	   0.00 (0/2)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2370,7 +2458,7 @@ VICTIM:         MINOR
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0504
-INCIDENT:       BOMBING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -2380,14 +2468,14 @@ VICTIM:         -
      SCORES for DEV-MUC3-0504
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/1)	   0.00 (0/0)         0.00
 Victims         0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
+TOTAL           0.00 (0/4)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2406,24 +2494,26 @@ VICTIM:         JOSE MARIA MARTINEZ
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0528
-INCIDENT:       KIDNAPPING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         ROBERTO LIZARDI
+                LUIS ROSSI
+                LESBIA LEAL
 
      SCORES for DEV-MUC3-0528
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/3)	   0.00 (0/0)         0.00
+Victims         0.67 (2/3)	   0.67 (2/3)         0.67
 --------        --------------     --------------     ----
-TOTAL           0.20 (1/5)	   1.00 (1/1)         0.33
+TOTAL           0.40 (2/5)	   0.67 (2/3)         0.50
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2440,24 +2530,27 @@ VICTIM:         PABLO MARTIN BERROCAL
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0539
-INCIDENT:       KIDNAPPING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         PABLO MARTIN BERROCAL
+                MANUEL PEREZ
+                LUIS MARTIN BERROCAL
+                MARTIN BERROCAL
 
      SCORES for DEV-MUC3-0539
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         1.00 (1/1)	   0.25 (1/4)         0.40
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
+TOTAL           0.25 (1/4)	   0.25 (1/4)         0.25
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2479,24 +2572,28 @@ VICTIM:         FIDEL QUISPE
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0552
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         FIDEL QUISPE
+                ISIDORO SAUNE
+                DIONISIO AGUIRRE
+                FEDERICO PAQUILLAUVI
+                CIRILO QUISPE
 
      SCORES for DEV-MUC3-0552
 
                 RECALL             PRECISION          F-MEASURE
-Incident        0.00 (0/1)	   0.00 (0/1)         0.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/1)	   0.00 (0/0)         0.00
-Victims         0.00 (0/6)	   0.00 (0/0)         0.00
+Victims         0.83 (5/6)	   1.00 (5/5)         0.91
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/9)	   0.00 (0/1)         0.00
+TOTAL           0.56 (5/9)	   1.00 (5/5)         0.71
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2515,24 +2612,32 @@ VICTIM:         HECTOR DELGADO PARKER
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0557
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         CARLOS MENEM
+                JOSE SARNEY
+                VIRGILIO BARCO
+                JULIO MARIA SANGUINETTI
+                CARLOS SALINAS
+                CARLOS ANDRES PEREZ
+                ALAN GARCIA
+                HECTOR DELGADO PARKER
+                VICTOR POLAY
 
      SCORES for DEV-MUC3-0557
 
                 RECALL             PRECISION          F-MEASURE
-Incident        0.00 (0/1)	   0.00 (0/1)         0.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/3)	   0.00 (0/0)         0.00
+Victims         0.33 (1/3)	   0.11 (1/9)         0.17
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/6)	   0.00 (0/1)         0.00
+TOTAL           0.17 (1/6)	   0.11 (1/9)         0.13
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2549,24 +2654,28 @@ VICTIM:         -
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0559
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         DOMINGO CAVALLO
+                FERNANDO SOLANA
+                ROBERTO DE ABREU
+                GUILLERMO LARCO
+                ALAN GARCIA
 
      SCORES for DEV-MUC3-0559
 
                 RECALL             PRECISION          F-MEASURE
-Incident        0.00 (0/1)	   0.00 (0/1)         0.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/0)	   0.00 (0/0)         0.00
+Victims         0.00 (0/0)	   0.00 (0/5)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/2)	   0.00 (0/1)         0.00
+TOTAL           0.00 (0/2)	   0.00 (0/5)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2583,24 +2692,29 @@ VICTIM:         DANILO VARILLAS
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0561
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         MARIO PALENCIA
+                CARLOS AUGUSTO MORALES
+                ROBERTO VALLE
+                RODOLFO PAIZ
+                GONZALO MENENDEZ
+                DANILO VARILLAS
 
      SCORES for DEV-MUC3-0561
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         1.00 (1/1)	   0.17 (1/6)         0.29
 --------        --------------     --------------     ----
-TOTAL           0.50 (1/2)	   1.00 (1/1)         0.67
+TOTAL           0.50 (1/2)	   0.17 (1/6)         0.25
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2618,7 +2732,7 @@ VICTIM:         WIFE OF THE DEPUTY EDITOR OF EL DIARIO DE HOY
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0565
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -2628,14 +2742,14 @@ VICTIM:         -
      SCORES for DEV-MUC3-0565
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
 Victims         0.00 (0/2)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
+TOTAL           0.00 (0/4)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2652,24 +2766,25 @@ VICTIM:         JESUIT PRIESTS / PRIESTS
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0875
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         DANIEL ORTEGA
+                JESUIT PRIESTS
 
      SCORES for DEV-MUC3-0875
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         1.00 (1/1)	   0.50 (1/2)         0.67
 --------        --------------     --------------     ----
-TOTAL           0.33 (1/3)	   1.00 (1/1)         0.50
+TOTAL           0.33 (1/3)	   0.50 (1/2)         0.40
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2686,24 +2801,26 @@ VICTIM:         PERSONS
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0876
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         LUIZ ALVA CASTRO
+                GUILLERMO LARCO
+                ALVA CASTRO
 
      SCORES for DEV-MUC3-0876
 
                 RECALL             PRECISION          F-MEASURE
-Incident        0.00 (0/1)	   0.00 (0/1)         0.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         0.00 (0/1)	   0.00 (0/3)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/5)	   0.00 (0/1)         0.00
+TOTAL           0.00 (0/5)	   0.00 (0/3)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2720,24 +2837,27 @@ VICTIM:         PRIESTS
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0887
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         MAURICIO SANDOVAL
+                GREGORIO ROSA CHAVEZ
+                CARLOS ANDRES PEREZ
+                OSCAR SANTAMARIA
 
      SCORES for DEV-MUC3-0887
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         0.00 (0/1)	   0.00 (0/4)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.33 (1/3)	   1.00 (1/1)         0.50
+TOTAL           0.00 (0/3)	   0.00 (0/4)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2754,24 +2874,25 @@ VICTIM:         CATHOLIC PRIESTS
       SYSTEM OUTPUT 
 
 ID:             DEV-MUC3-0888
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         MIKHAIL MAYOROV
+                GEORGE BUSH
 
      SCORES for DEV-MUC3-0888
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         0.00 (0/1)	   0.00 (0/2)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
+TOTAL           0.00 (0/4)	   0.00 (0/2)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2788,7 +2909,7 @@ VICTIM:         SOLDIER
       SYSTEM OUTPUT 
 
 ID:             TST1-MUC3-0002
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -2798,14 +2919,14 @@ VICTIM:         -
      SCORES for TST1-MUC3-0002
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/1)	   0.00 (0/0)         0.00
 Victims         0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.20 (1/5)	   1.00 (1/1)         0.33
+TOTAL           0.00 (0/5)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2825,7 +2946,7 @@ VICTIM:         PEOPLE
       SYSTEM OUTPUT 
 
 ID:             TST1-MUC3-0004
-INCIDENT:       BOMBING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -2835,14 +2956,14 @@ VICTIM:         -
      SCORES for TST1-MUC3-0004
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/3)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/2)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/1)	   0.00 (0/0)         0.00
 Victims         0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.12 (1/8)	   1.00 (1/1)         0.22
+TOTAL           0.00 (0/8)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2859,7 +2980,7 @@ VICTIM:         -
       SYSTEM OUTPUT 
 
 ID:             TST1-MUC3-0035
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -2869,14 +2990,14 @@ VICTIM:         -
      SCORES for TST1-MUC3-0035
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/1)	   0.00 (0/0)         0.00
 Victims         0.00 (0/0)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
+TOTAL           0.00 (0/4)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2893,7 +3014,7 @@ VICTIM:         SOLDIERS / GROUP OF NINE U.S. SOLDIERS / GROUP OF NINE U.S. SOLD
       SYSTEM OUTPUT 
 
 ID:             TST1-MUC3-0036
-INCIDENT:       BOMBING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -2903,14 +3024,14 @@ VICTIM:         -
      SCORES for TST1-MUC3-0036
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
 Victims         0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
+TOTAL           0.00 (0/4)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2931,24 +3052,26 @@ VICTIM:         JESUITS
       SYSTEM OUTPUT 
 
 ID:             TST1-MUC3-0045
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         HECTOR HERIBERTO HERNANDEZ
+                ALONSO CHAVEZ
+                MAURICIO MENA SANDOVAL
 
      SCORES for TST1-MUC3-0045
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/4)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/2)	   0.00 (0/0)         0.00
+Victims         0.00 (0/2)	   0.00 (0/3)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.12 (1/8)	   1.00 (1/1)         0.22
+TOTAL           0.00 (0/8)	   0.00 (0/3)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2968,24 +3091,28 @@ VICTIM:         IGNACIO ELLACURIA
       SYSTEM OUTPUT 
 
 ID:             TST1-MUC3-0050
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         MARCOS MCGRATH
+                JOSE LUIS LACUNZA
+                ABDIEL ADAMES
+                GUILLERMO GALVAN
+                OSCAR ARIAS
 
      SCORES for TST1-MUC3-0050
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/4)	   0.00 (0/0)         0.00
+Victims         0.00 (0/4)	   0.00 (0/5)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.17 (1/6)	   1.00 (1/1)         0.29
+TOTAL           0.00 (0/6)	   0.00 (0/5)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3002,7 +3129,7 @@ VICTIM:         -
       SYSTEM OUTPUT 
 
 ID:             TST1-MUC3-0072
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -3012,14 +3139,14 @@ VICTIM:         -
      SCORES for TST1-MUC3-0072
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/1)	   0.00 (0/0)         0.00
 Victims         0.00 (0/0)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.33 (1/3)	   1.00 (1/1)         0.50
+TOTAL           0.00 (0/3)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3036,22 +3163,22 @@ VICTIM:         FEDERICO ESTRADA VELEZ
       SYSTEM OUTPUT 
 
 ID:             TST1-MUC3-0080
-INCIDENT:       KIDNAPPING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         FEDERICO ESTRADA VELEZ
 
      SCORES for TST1-MUC3-0080
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
 TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
 
@@ -3071,7 +3198,7 @@ VICTIM:         -
       SYSTEM OUTPUT 
 
 ID:             TST1-MUC3-0092
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -3081,14 +3208,14 @@ VICTIM:         -
      SCORES for TST1-MUC3-0092
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/2)	   0.00 (0/0)         0.00
 Victims         0.00 (0/0)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.20 (1/5)	   1.00 (1/1)         0.33
+TOTAL           0.00 (0/5)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3105,24 +3232,25 @@ VICTIM:         -
       SYSTEM OUTPUT 
 
 ID:             TST2-MUC4-0010
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         MARIO VARGAS LLOSA
+                VARGAS LLOSA
 
      SCORES for TST2-MUC4-0010
 
                 RECALL             PRECISION          F-MEASURE
-Incident        0.00 (0/1)	   0.00 (0/1)         0.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/1)	   0.00 (0/0)         0.00
-Victims         0.00 (0/0)	   0.00 (0/0)         0.00
+Victims         0.00 (0/0)	   0.00 (0/2)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/2)	   0.00 (0/1)         0.00
+TOTAL           0.00 (0/2)	   0.00 (0/2)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3139,24 +3267,24 @@ VICTIM:         JECAR NEGHME
       SYSTEM OUTPUT 
 
 ID:             TST2-MUC4-0012
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         CARLOS MENESES PIZARRO
 
      SCORES for TST2-MUC4-0012
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.50 (1/2)	   1.00 (1/1)         0.67
+TOTAL           0.00 (0/2)	   0.00 (0/1)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3173,24 +3301,26 @@ VICTIM:         ROBERTO ARMANDO RIVERA ESCOBAR
       SYSTEM OUTPUT 
 
 ID:             TST2-MUC4-0019
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         MILTON GRIMALDI
+                ROBERTO ARMANDO RIVERA
+                OSCAR ARIAS
 
      SCORES for TST2-MUC4-0019
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         0.00 (0/1)	   0.00 (0/3)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
+TOTAL           0.00 (0/4)	   0.00 (0/3)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3208,24 +3338,25 @@ VICTIM:         SOLDIERS / GUARDS / NATIONAL GUARD PATROL
       SYSTEM OUTPUT 
 
 ID:             TST2-MUC4-0044
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         CARLOS ANDRES PEREZ
+                JORGE ROMERO
 
      SCORES for TST2-MUC4-0044
 
                 RECALL             PRECISION          F-MEASURE
-Incident        0.00 (0/1)	   0.00 (0/1)         0.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/2)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/1)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         0.00 (0/1)	   0.00 (0/2)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/7)	   0.00 (0/1)         0.00
+TOTAL           0.00 (0/7)	   0.00 (0/2)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3242,7 +3373,7 @@ VICTIM:         PASSENGERS / PASSENGERS GOING TO CALI, VALLE DEL CAUCA DEPARTMEN
       SYSTEM OUTPUT 
 
 ID:             TST2-MUC4-0046
-INCIDENT:       BOMBING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -3252,14 +3383,14 @@ VICTIM:         -
      SCORES for TST2-MUC4-0046
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/1)	   0.00 (0/0)         0.00
 Victims         0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
+TOTAL           0.00 (0/4)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3276,24 +3407,25 @@ VICTIM:         LUIS CARLOS GALAN SARMIENTO
       SYSTEM OUTPUT 
 
 ID:             TST2-MUC4-0051
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         VIRGILIO BARCO
+                LUIS CARLOS GALAN SARMIENTO
 
      SCORES for TST2-MUC4-0051
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         1.00 (1/1)	   0.50 (1/2)         0.67
 --------        --------------     --------------     ----
-TOTAL           0.50 (1/2)	   1.00 (1/1)         0.67
+TOTAL           0.50 (1/2)	   0.50 (1/2)         0.50
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3310,24 +3442,25 @@ VICTIM:         NORBERTO RODRIGUEZ
       SYSTEM OUTPUT 
 
 ID:             TST2-MUC4-0053
-INCIDENT:       KIDNAPPING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         CARLOS ANDRES PEREZ
+                NORBERTO RODRIGUEZ
 
      SCORES for TST2-MUC4-0053
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/0)         0.00
+Victims         1.00 (1/1)	   0.50 (1/2)         0.67
 --------        --------------     --------------     ----
-TOTAL           0.33 (1/3)	   1.00 (1/1)         0.50
+TOTAL           0.33 (1/3)	   0.50 (1/2)         0.40
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3347,24 +3480,25 @@ VICTIM:         SALVADORANS
       SYSTEM OUTPUT 
 
 ID:             TST2-MUC4-0056
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         VENANCIO RAMIREZ
+                EUGENIO VIDES CASANOVA
 
      SCORES for TST2-MUC4-0056
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/4)	   0.00 (0/0)         0.00
+Victims         0.00 (0/4)	   0.00 (0/2)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.14 (1/7)	   1.00 (1/1)         0.25
+TOTAL           0.00 (0/7)	   0.00 (0/2)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3384,24 +3518,26 @@ VICTIM:         JESUS FERNANDEZ
       SYSTEM OUTPUT 
 
 ID:             TST2-MUC4-0070
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         JESUS FERNANDEZ
+                ALEJANDRO SANCHEZ
+                MAURICIO SANDOVAL
 
      SCORES for TST2-MUC4-0070
 
                 RECALL             PRECISION          F-MEASURE
-Incident        0.00 (0/1)	   0.00 (0/1)         0.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/4)	   0.00 (0/0)         0.00
+Victims         0.25 (1/4)	   0.33 (1/3)         0.29
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/7)	   0.00 (0/1)         0.00
+TOTAL           0.14 (1/7)	   0.33 (1/3)         0.20
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3418,7 +3554,7 @@ VICTIM:         -
       SYSTEM OUTPUT 
 
 ID:             TST2-MUC4-0081
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -3428,14 +3564,14 @@ VICTIM:         -
      SCORES for TST2-MUC4-0081
 
                 RECALL             PRECISION          F-MEASURE
-Incident        0.00 (0/1)	   0.00 (0/1)         0.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/1)	   0.00 (0/0)         0.00
 Victims         0.00 (0/0)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/4)	   0.00 (0/1)         0.00
+TOTAL           0.00 (0/4)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3452,7 +3588,7 @@ VICTIM:         CIVILIANS
       SYSTEM OUTPUT 
 
 ID:             TST2-MUC4-0093
-INCIDENT:       ATTACK
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
@@ -3462,14 +3598,14 @@ VICTIM:         -
      SCORES for TST2-MUC4-0093
 
                 RECALL             PRECISION          F-MEASURE
-Incident        0.00 (0/1)	   0.00 (0/1)         0.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
 Victims         0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/3)	   0.00 (0/1)         0.00
+TOTAL           0.00 (0/3)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3487,24 +3623,24 @@ VICTIM:         -
       SYSTEM OUTPUT 
 
 ID:             TST2-MUC4-0095
-INCIDENT:       BOMBING
+INCIDENT:       -
 WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         HECTOR GRAMAJO MORALES
 
      SCORES for TST2-MUC4-0095
 
                 RECALL             PRECISION          F-MEASURE
-Incident        1.00 (1/1)	   1.00 (1/1)         1.00
+Incident        0.00 (0/1)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/2)	   0.00 (0/0)         0.00
-Victims         0.00 (0/0)	   0.00 (0/0)         0.00
+Victims         0.00 (0/0)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.20 (1/5)	   1.00 (1/1)         0.33
+TOTAL           0.00 (0/5)	   0.00 (0/1)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3512,11 +3648,11 @@ TOTAL           0.20 (1/5)	   1.00 (1/1)         0.33
      SCORES for ALL Templates
 
                 RECALL             PRECISION          F-MEASURE
-Incident        0.85 (85/100)	   0.85 (85/100)      0.85
+Incident        0.00 (0/100)	   0.00 (0/0)         0.00
 Weapons         0.00 (0/44)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/69)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/47)	   0.00 (0/0)         0.00
 Targets         0.00 (0/62)	   0.00 (0/0)         0.00
-Victims         0.00 (0/144)	   0.00 (0/0)         0.00
+Victims         0.35 (50/144)	   0.24 (50/205)      0.29
 --------        --------------     --------------     ----
-TOTAL           0.18 (85/466)	   0.85 (85/100)      0.30
+TOTAL           0.11 (50/466)	   0.24 (50/205)      0.15

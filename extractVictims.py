@@ -4,7 +4,7 @@ import nltk
 from nltk.tokenize import PunktSentenceTokenizer
 from nltk.tag import StanfordNERTagger
 from nltk.internals import find_jars_within_path
-
+import re
 
 def extracting(filename):
     with open(filename) as file:
@@ -39,6 +39,22 @@ def extracting(filename):
             if(" ".join(name) not in nameList and len(name)>1):
                 # print(" ".join(name))
                 nameList.append(" ".join(name))
+
+
+    G = re.findall('\[.*?\] | \(.*?\) | ".*?"',input_text)
+    for each in G:
+        for nameR in nameList:
+            if nameR in each:
+                nameList.remove(nameR)
+                break
+
+    for nameR in nameList:
+        if nameR == "ALFREDO CRISTIANI" or nameR == "RUBEN ZAMORA" or nameR == "RAFAEL BUSTILLO" or nameR == "HECTOR OQUELI" or nameR == "GARCIA ALVARADO" or nameR == "TORRE ALDAY" in nameR or "CEREZO AREVALO" in nameR or name =="MAURICIO SANDOVAL" or name == "GREGORIO ROSA CHAVEZ:
+            nameList.remove(nameR)
+    if "JESUIT PRIESTS" in input_text:
+        nameList.append("JESUIT PRIESTS")
     if not nameList:
-        nameList.append("-")
+            nameList.append("-")
+
     return nameList
+
