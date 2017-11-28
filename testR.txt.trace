@@ -21,7 +21,9 @@ WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         ARNULFO ROMERO
+VICTIM:         RAFAEL BUSTILLO
+                ARNULFO ROMERO
+                ALFREDO CRISTIANI
                 RENE EMILIO
                 JESUIT PRIESTS
 
@@ -33,9 +35,9 @@ Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.67 (2/3)	   0.67 (2/3)         0.67
+Victims         0.67 (2/3)	   0.40 (2/5)         0.50
 --------        --------------     --------------     ----
-TOTAL           0.40 (2/5)	   0.67 (2/3)         0.50
+TOTAL           0.40 (2/5)	   0.40 (2/5)         0.40
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -57,7 +59,8 @@ WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         JESUIT PRIESTS
+VICTIM:         RUBEN ZAMORA
+                JESUIT PRIESTS
 
      SCORES for DEV-MUC3-0022
 
@@ -67,9 +70,9 @@ Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         1.00 (1/1)	   1.00 (1/1)         1.00
+Victims         1.00 (1/1)	   0.50 (1/2)         0.67
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
+TOTAL           0.25 (1/4)	   0.50 (1/2)         0.33
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -129,6 +132,7 @@ PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
 VICTIM:         SIGIFREDO OCHOA PEREZ
+                ALFREDO CRISTIANI
                 JESUIT PRIESTS
 
      SCORES for DEV-MUC3-0028
@@ -139,9 +143,9 @@ Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.33 (1/3)	   0.50 (1/2)         0.40
+Victims         0.33 (1/3)	   0.33 (1/3)         0.33
 --------        --------------     --------------     ----
-TOTAL           0.17 (1/6)	   0.50 (1/2)         0.25
+TOTAL           0.17 (1/6)	   0.33 (1/3)         0.22
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -164,7 +168,8 @@ WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         GILDA FLORES
+VICTIM:         HECTOR OQUELI
+                GILDA FLORES
                 MARIO SOLORZANO
 
      SCORES for DEV-MUC3-0036
@@ -175,9 +180,9 @@ Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.50 (1/2)	   0.50 (1/2)         0.50
+Victims         1.00 (2/2)	   0.67 (2/3)         0.80
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   0.50 (1/2)         0.33
+TOTAL           0.50 (2/4)	   0.67 (2/3)         0.57
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -271,7 +276,8 @@ WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         ROBERTO GIRON FLORES
+VICTIM:         GARCIA ALVARADO
+                ROBERTO GIRON FLORES
                 JULIO ALFREDO SAMAYOA
                 GERARDO LE CHEVALIER
                 IVON FLORES
@@ -286,9 +292,9 @@ Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/2)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/6)         0.00
+Victims         0.00 (0/1)	   0.00 (0/7)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/4)	   0.00 (0/6)         0.00
+TOTAL           0.00 (0/4)	   0.00 (0/7)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -422,9 +428,11 @@ WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         LUIS ROSSMAN
+VICTIM:         GUILLERMO TORRE ALDAY
+                LUIS ROSSMAN
                 RAMIRO PUYOL
                 JOSE VERNET
+                TORRE ALDAY
 
      SCORES for DEV-MUC3-0117
 
@@ -434,9 +442,9 @@ Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/2)	   0.00 (0/0)         0.00
-Victims         0.00 (0/0)	   0.00 (0/3)         0.00
+Victims         0.00 (0/0)	   0.00 (0/5)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/4)	   0.00 (0/3)         0.00
+TOTAL           0.00 (0/4)	   0.00 (0/5)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -462,7 +470,9 @@ PERP_ORG:       -
 TARGET:         -
 VICTIM:         HECTOR GRAMEJO
                 ALFONSO CABRERA
+                VINICIO CEREZO AREVALO
                 RAQUEL BLANDON
+                CEREZO AREVALO
                 MARIO DAVID GARCIA
                 DANILO ROCA
                 NICOLAS BUONAFINA
@@ -477,9 +487,9 @@ Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/2)	   0.00 (0/0)         0.00
-Victims         0.00 (0/2)	   0.00 (0/8)         0.00
+Victims         0.00 (0/2)	   0.00 (0/10)        0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/7)	   0.00 (0/8)         0.00
+TOTAL           0.00 (0/7)	   0.00 (0/10)        0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -577,6 +587,7 @@ VICTIM:         ROBERTO NAVAS
                 LUIS GALDAMEZ
                 ROBERTO GARCIA
                 VIDES CASANOVA
+                RAFAEL BUSTILLO
                 JOSE NAPOLEON DUARTE
 
      SCORES for DEV-MUC3-0139
@@ -587,9 +598,9 @@ Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         1.00 (2/2)	   0.40 (2/5)         0.57
+Victims         1.00 (2/2)	   0.33 (2/6)         0.50
 --------        --------------     --------------     ----
-TOTAL           0.40 (2/5)	   0.40 (2/5)         0.40
+TOTAL           0.40 (2/5)	   0.33 (2/6)         0.36
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -900,6 +911,7 @@ PERP_ORG:       -
 TARGET:         -
 VICTIM:         JOSE ANTONIO RODRIGUEZ PORTH
                 EUGENIO CASTRO
+                ALFREDO CRISTIANI
 
      SCORES for DEV-MUC3-0241
 
@@ -909,9 +921,9 @@ Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.33 (1/3)	   0.50 (1/2)         0.40
+Victims         0.33 (1/3)	   0.33 (1/3)         0.33
 --------        --------------     --------------     ----
-TOTAL           0.20 (1/5)	   0.50 (1/2)         0.29
+TOTAL           0.20 (1/5)	   0.33 (1/3)         0.25
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1046,6 +1058,7 @@ PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
 VICTIM:         MAURICIO GUZMAN AGUILAR
+                ALFREDO CRISTIANI
 
      SCORES for DEV-MUC3-0261
 
@@ -1055,9 +1068,9 @@ Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/2)	   0.00 (0/0)         0.00
 Targets         0.00 (0/1)	   0.00 (0/0)         0.00
-Victims         0.00 (0/2)	   0.00 (0/1)         0.00
+Victims         0.00 (0/2)	   0.00 (0/2)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/7)	   0.00 (0/1)         0.00
+TOTAL           0.00 (0/7)	   0.00 (0/2)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2246,6 +2259,7 @@ PERP_ORG:       -
 TARGET:         -
 VICTIM:         SHAFIK HANDAL
                 NAPOLEON DUARTE
+                ALFREDO CRISTIANI
 
      SCORES for DEV-MUC3-0472
 
@@ -2255,9 +2269,9 @@ Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/2)         0.00
+Victims         0.00 (0/1)	   0.00 (0/3)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/3)	   0.00 (0/2)         0.00
+TOTAL           0.00 (0/3)	   0.00 (0/3)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2737,7 +2751,7 @@ WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         -
+VICTIM:         ALFREDO CRISTIANI
 
      SCORES for DEV-MUC3-0565
 
@@ -2747,9 +2761,9 @@ Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/2)	   0.00 (0/0)         0.00
+Victims         0.00 (0/2)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/4)	   0.00 (0/0)         0.00
+TOTAL           0.00 (0/4)	   0.00 (0/1)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2772,6 +2786,7 @@ PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
 VICTIM:         DANIEL ORTEGA
+                ALFREDO CRISTIANI
                 JESUIT PRIESTS
 
      SCORES for DEV-MUC3-0875
@@ -2782,9 +2797,9 @@ Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/0)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         1.00 (1/1)	   0.50 (1/2)         0.67
+Victims         1.00 (1/1)	   0.33 (1/3)         0.50
 --------        --------------     --------------     ----
-TOTAL           0.33 (1/3)	   0.50 (1/2)         0.40
+TOTAL           0.33 (1/3)	   0.33 (1/3)         0.33
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2846,6 +2861,7 @@ VICTIM:         MAURICIO SANDOVAL
                 GREGORIO ROSA CHAVEZ
                 CARLOS ANDRES PEREZ
                 OSCAR SANTAMARIA
+                ALFREDO CRISTIANI
 
      SCORES for DEV-MUC3-0887
 
@@ -2855,9 +2871,9 @@ Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/4)         0.00
+Victims         0.00 (0/1)	   0.00 (0/5)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/3)	   0.00 (0/4)         0.00
+TOTAL           0.00 (0/3)	   0.00 (0/5)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2881,6 +2897,7 @@ PERP_ORG:       -
 TARGET:         -
 VICTIM:         MIKHAIL MAYOROV
                 GEORGE BUSH
+                ALFREDO CRISTIANI
 
      SCORES for DEV-MUC3-0888
 
@@ -2890,9 +2907,9 @@ Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/2)         0.00
+Victims         0.00 (0/1)	   0.00 (0/3)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/4)	   0.00 (0/2)         0.00
+TOTAL           0.00 (0/4)	   0.00 (0/3)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3306,7 +3323,8 @@ WEAPON:         -
 PERP_INDIV:     -
 PERP_ORG:       -
 TARGET:         -
-VICTIM:         MILTON GRIMALDI
+VICTIM:         ALFREDO CRISTIANI
+                MILTON GRIMALDI
                 ROBERTO ARMANDO RIVERA
                 OSCAR ARIAS
 
@@ -3318,9 +3336,9 @@ Weapons         0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.00 (0/1)	   0.00 (0/3)         0.00
+Victims         0.00 (0/1)	   0.00 (0/4)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/4)	   0.00 (0/3)         0.00
+TOTAL           0.00 (0/4)	   0.00 (0/4)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3526,6 +3544,7 @@ TARGET:         -
 VICTIM:         JESUS FERNANDEZ
                 ALEJANDRO SANCHEZ
                 MAURICIO SANDOVAL
+                ALFREDO CRISTIANI
 
      SCORES for TST2-MUC4-0070
 
@@ -3535,9 +3554,9 @@ Weapons         0.00 (0/0)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/1)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/1)	   0.00 (0/0)         0.00
 Targets         0.00 (0/0)	   0.00 (0/0)         0.00
-Victims         0.25 (1/4)	   0.33 (1/3)         0.29
+Victims         0.25 (1/4)	   0.25 (1/4)         0.25
 --------        --------------     --------------     ----
-TOTAL           0.14 (1/7)	   0.33 (1/3)         0.20
+TOTAL           0.14 (1/7)	   0.25 (1/4)         0.18
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3653,6 +3672,6 @@ Weapons         0.00 (0/44)	   0.00 (0/0)         0.00
 Perp_Ind        0.00 (0/69)	   0.00 (0/0)         0.00
 Perp_Org        0.00 (0/47)	   0.00 (0/0)         0.00
 Targets         0.00 (0/62)	   0.00 (0/0)         0.00
-Victims         0.35 (50/144)	   0.24 (50/205)      0.29
+Victims         0.35 (51/144)	   0.23 (51/225)      0.28
 --------        --------------     --------------     ----
-TOTAL           0.11 (50/466)	   0.24 (50/205)      0.15
+TOTAL           0.11 (51/466)	   0.23 (51/225)      0.15

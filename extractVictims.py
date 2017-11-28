@@ -48,9 +48,9 @@ def extracting(filename):
                 nameList.remove(nameR)
                 break
 
-    for nameR in nameList:
-        if nameR == "ALFREDO CRISTIANI" or nameR == "RUBEN ZAMORA" or nameR == "RAFAEL BUSTILLO" or nameR == "HECTOR OQUELI" or nameR == "GARCIA ALVARADO" or nameR == "TORRE ALDAY" in nameR or "CEREZO AREVALO" in nameR or name =="MAURICIO SANDOVAL" or name == "GREGORIO ROSA CHAVEZ:
-            nameList.remove(nameR)
+    # for nameR in nameList:
+    #     if nameR == "ALFREDO CRISTIANI" or nameR == "RUBEN ZAMORA" or nameR == "RAFAEL BUSTILLO" or nameR == "GARCIA ALVARADO" or nameR == "TORRE ALDAY" in nameR or "CEREZO AREVALO" in nameR or name =="MAURICIO SANDOVAL" or name == "GREGORIO ROSA CHAVEZ" or name == "RENE EMILIO":
+    #         nameList.remove(nameR)
     if "JESUIT PRIESTS" in input_text:
         nameList.append("JESUIT PRIESTS")
     if not nameList:
